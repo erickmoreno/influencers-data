@@ -24,9 +24,9 @@ Feel free to PR data or influencers sources.
 
 
 * "DETRATORES"
-1.  Jessé Souza
+1.  [Jessé Souza](./data/Jesse_Souza)
 1.  José Fernandes Junior
-1.  Guga Chacra
+1.  [Guga Chacra](./data/Guga_Chacra)
 1.  Nathália Rodrigues
 1.  Eduardo Moreira
 1.  Vera Magalhães
