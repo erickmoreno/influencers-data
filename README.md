@@ -10,6 +10,12 @@ The first one is the [GPS ideológico](https://temas.folha.uol.com.br/gps-ideolo
 
 Another source is the brazilian government influencers list created by the government and made public by press. 
 
+## How data is collected?
+
+We use mainly social media scrappers to collect public data that we can understand as oppinions.
+
+To collect tweets we rely on [snscrape](https://github.com/JustAnotherArchivist/snscrape).
+
 ## How to contribute
 
 Feel free to PR data or influencers sources.
