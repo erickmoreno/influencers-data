@@ -68,9 +68,9 @@ INFLUENCERS=(
     "Luciano_Hang,luciano.hang"
     "Filipe_Martins,filgmartin"
 )
-YEAR=$1
+YEAR="2020"
 
-FORMAT="[{date}; {username}; {content}; {cleanUrl}]"
+FORMAT="[{date}; {username}; {content}; {cleanUrl}; {likes}; {comments}]"
 SINCE="$YEAR-01-01"
 UNTIL="$YEAR-12-31"
 
@@ -80,9 +80,11 @@ for i in "${INFLUENCERS[@]}"
 do 
     set -- $i
     echo getting $1 instagram posts
-    path=$1/instagram
+    path=data/$1/instagram
     mkdir -p $path
     outfilename=$path/$2-instagram.txt
-    snscrape -f $FORMAT instagram-user $2 > $outfilename
+    snscrape -f $FORMAT --since "$YEAR-02-01" instagram-user $2 > $outfilename
 done 
 IFS=$OLDIFS
+
+# snscrape --jsonl --since "2020-01-01" instagram-user erickmorenoma > erickmorenoma.txt

@@ -90,9 +90,9 @@ INFLUENCERS=(
     "Luciano_Hang,luciano_hang"
     "Filipe_Martins,filgmartin"
 )
-YEAR=$2
+YEAR=2020
 
-FORMAT="[{date}; {username}; {content}; {url}; {retweetedTweet}; {quotedTweet}]"
+FORMAT="[{date}; {user.username}; {content}; {replyCount}; {retweetCount}; {likeCount}; {quoteCount}; {url}; {retweetedTweet}; {quotedTweet}]"
 SINCE="$YEAR-01-01"
 UNTIL="$YEAR-12-31"
 
@@ -104,11 +104,15 @@ for i in "${INFLUENCERS[@]}"
 do 
     set -- $i
     echo getting $1 tweets
-    path=$1/twitter
+    path=data/$1/twitter
     mkdir -p $path
     snscrape -f $FORMAT twitter-search "from:$2 since:$SINCE until:$UNTIL" > $path/$2-twitter-$YEAR.txt
 done 
 IFS=$OLDIFS
+
+# snscrape --jsonl twitter-search "from:gugachacra since:2020-08-01 until:2020-12-01" > testeFormat.txt
+
+    # {replyCount}; {retweetCount}; {likeCount}; {quoteCount}; 
 
 # declare -A pairs=(
 #   [c]=3
