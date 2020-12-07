@@ -85,20 +85,23 @@ INFLUENCERS=(
     # "Janaina_Paschoal,janainacpaschoal"
     # "Joao_Doria,jdoriajr"
     # "Jose_Roberto_Guzzo,jrguzzofatos"
+    # "Luiz_Philippe_Braganca,lpbragancabr"
+    # "Marcelo_Freixo,marcelofreixo"
+    # "Nando_Moura,nandomoura_oficial_101"
+    # "Olavo_de_Carvalho,opropriolavodecarvalho"
+    # "Osmar_Terra,terra.osmar"
+    # "Rafinha_Bastos,rafinhabastos"
+    # "Reinaldo_Azevedo,reinaldoazevedo.com.br"
+    # "Ricardo_Amorim,ricamorim"
+    # "Sergio_Camargo,sergiodireita"
+    # "Sergio_Moro,sf_moro"
+
+
     "JoiceHasselmann,joicehasselmannoficial"
     "Kim_Kataguiri,kimkataguiri"
     "Lobao,lobaow"
     "Luciano_Huck,lucianohuck"
-    "Luiz_Philippe_Braganca,lpbragancabr"
-    "Marcelo_Freixo,marcelofreixo"
-    "Nando_Moura,nandomoura_oficial_101"
-    "Olavo_de_Carvalho,opropriolavodecarvalho"
-    "Osmar_Terra,terra.osmar"
-    "Rafinha_Bastos,rafinhabastos"
-    "Reinaldo_Azevedo,reinaldoazevedo.com.br"
-    "Ricardo_Amorim,ricamorim"
-    "Sergio_Camargo,sergiodireita"
-    "Sergio_Moro,sf_moro"
+    
 )
 
 YEAR="2020"
