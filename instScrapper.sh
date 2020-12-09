@@ -101,16 +101,37 @@ INFLUENCERS=(
     "Xico_Sa,xicosa"
 )
 
-YEAR="2020"
-
-FORMAT="[{date}; {username}; {content}; {cleanUrl}; {likes}; {comments}]"
+YEAR=$1
 SINCE="$YEAR-01-01"
 UNTIL="$YEAR-12-31"
 
-single_line_content () {
-    tr "\n" " " < $1.txt > $1-tmp.txt # Remove new lines
-    sed "s/\s\[$YEAR/\n[$YEAR/g" $1-tmp.txt > $1.txt #Insert new lines only for new content
-    rm $1-tmp.txt
+FORMAT="[{date}; {username}; {content}; {cleanUrl}; {likes}; {comments}"
+
+#Converts miltiline content to single line
+format_output_file () {
+    filename=$(output_filename).txt
+    temp=$(output_filename)-tmp.txt
+
+    echo formating $(output_filename)
+    tr "\n" " " < $filename > $temp # Remove new lines
+    sed -e "s/^\[//g" -e "s/\s\[$YEAR/\n$YEAR/g" $temp > $filename #Insert new lines only for new content
+    rm $temp
+}
+
+#Path to data
+data_path () {
+    echo data/$INFLUENCER/instagram
+}
+
+#full file path
+output_filename () {
+    echo $(data_path)/$USERNAME-instagram-$YEAR
+}
+
+scrap_instagram () {
+    echo getting $INFLUENCER $YEAR insta posts
+    mkdir -p $(data_path)
+    snscrape -f $FORMAT --since $SINCE instagram-user $USERNAME > $(outfilename).txt
 }
 
 OLDIFS=$IFS
@@ -118,12 +139,10 @@ IFS=','
 for i in "${INFLUENCERS[@]}" 
 do 
     set -- $i
-    echo getting $1 instagram posts
-    path=data/$1/instagram
-    mkdir -p $path
-    outfilename=$path/$2-instagram
-    # snscrape -f $FORMAT --since "$YEAR-02-01" instagram-user $2 > $outfilename.txt
-    single_line_content $outfilename
+    INFLUENCER=$1
+    USERNAME=$2
+    scrap_instagram
+    format_output_file
 done 
 IFS=$OLDIFS
 
