@@ -167,15 +167,8 @@
 [2020-11-18 00:55:47+00:00; ProfBunazar; Esqueci de marcar o @brunocovas https://t.co/ql3WObihGc; 0; 0; 16; 0; https://twitter.com/ProfBunazar/status/1328864443749502976; None; https://twitter.com/ProfBunazar/status/1328863460462125057]
 [2020-11-18 00:53:57+00:00; ProfBunazar; @FigaroAndre Ahahahahhha; 0; 0; 2; 0; https://twitter.com/ProfBunazar/status/1328863982518734848; None; None]
 [2020-11-18 00:52:33+00:00; ProfBunazar; @nandafreelife Uma canalhice o que estão fazendo com Amapá; 0; 1; 2; 0; https://twitter.com/ProfBunazar/status/1328863632004943875; None; None]
-[2020-11-18 00:51:52+00:00; ProfBunazar; Se eu entrevistasse o Bruno Covas, perguntaria:
-1. Considerando que o PSDB governa SP há décadas, qual a sua política em relação aos recursos hídricos?
-2. Porque não há, ainda, saneamento básico para todos da capital? 
-3. Qual sua proposta concreta para a melhoria do trânsito?; 3; 2; 87; 2; https://twitter.com/ProfBunazar/status/1328863460462125057; None; None]
-[2020-11-18 00:49:36+00:00; ProfBunazar; Se eu entrevistasse o @GuilhermeBoulos, eu perguntaria:
-1. O que você fará de concreto em relação à Cracolândia?;
-2. Como será sua relação com o MTST e como evitará conflito de interesses?
-3. Qual medida concreta adotará para a educação infantil?
-4. Qual seu projeto de zeladoria?; 9; 3; 115; 1; https://twitter.com/ProfBunazar/status/1328862889143361536; None; None]
+[2020-11-18 00:51:52+00:00; ProfBunazar; Se eu entrevistasse o Bruno Covas, perguntaria: 1. Considerando que o PSDB governa SP há décadas, qual a sua política em relação aos recursos hídricos? 2. Porque não há, ainda, saneamento básico para todos da capital?  3. Qual sua proposta concreta para a melhoria do trânsito?; 3; 2; 87; 2; https://twitter.com/ProfBunazar/status/1328863460462125057; None; None]
+[2020-11-18 00:49:36+00:00; ProfBunazar; Se eu entrevistasse o @GuilhermeBoulos, eu perguntaria: 1. O que você fará de concreto em relação à Cracolândia?; 2. Como será sua relação com o MTST e como evitará conflito de interesses? 3. Qual medida concreta adotará para a educação infantil? 4. Qual seu projeto de zeladoria?; 9; 3; 115; 1; https://twitter.com/ProfBunazar/status/1328862889143361536; None; None]
 [2020-11-18 00:08:24+00:00; ProfBunazar; O Amapá https://t.co/Ma0IR0FQYN; 1; 2; 12; 0; https://twitter.com/ProfBunazar/status/1328852519401951232; None; https://twitter.com/nillanogueira/status/1328852240640200704]
 [2020-11-18 00:08:10+00:00; ProfBunazar; @nillanogueira Meus Deus que terrível.; 1; 0; 2; 0; https://twitter.com/ProfBunazar/status/1328852461994594307; None; None]
 [2020-11-18 00:04:22+00:00; ProfBunazar; @nillanogueira Deve estar caótico aí né? Lamento muito. Que absurdo; 1; 0; 0; 0; https://twitter.com/ProfBunazar/status/1328851503952646144; None; None]
@@ -183,9 +176,7 @@
 [2020-11-18 00:01:41+00:00; ProfBunazar; @arielleuchoa Estou bloqueando você. Boa noite; 1; 0; 16; 0; https://twitter.com/ProfBunazar/status/1328850831505027072; None; None]
 [2020-11-17 23:58:43+00:00; ProfBunazar; O Amapá mais uma vez no escuro. Esse país não é minimamente sério.; 10; 9; 254; 5; https://twitter.com/ProfBunazar/status/1328850085971693568; None; None]
 [2020-11-17 23:56:16+00:00; ProfBunazar; @arielleuchoa Não é justo dizer isso. Eu não deslegitimo o processo. Não houve fraude. As eleições são legítimas. O povo escolheu. Só estou cansado..; 0; 0; 11; 1; https://twitter.com/ProfBunazar/status/1328849468029071362; None; None]
-[2020-11-17 23:37:44+00:00; ProfBunazar; Russomano: Covas
-Jilmar Tatto: Boulos.
-Estamos muito bem. https://t.co/a587h3EkyS; 2; 1; 19; 0; https://twitter.com/ProfBunazar/status/1328844802746671104; None; https://twitter.com/OGloboPolitica/status/1328844223358119936]
+[2020-11-17 23:37:44+00:00; ProfBunazar; Russomano: Covas Jilmar Tatto: Boulos. Estamos muito bem. https://t.co/a587h3EkyS; 2; 1; 19; 0; https://twitter.com/ProfBunazar/status/1328844802746671104; None; https://twitter.com/OGloboPolitica/status/1328844223358119936]
 [2020-11-17 23:19:18+00:00; ProfBunazar; @danirenucci Estou orgulhoso não. Estou triste; 1; 0; 5; 0; https://twitter.com/ProfBunazar/status/1328840164832141313; None; None]
 [2020-11-17 23:18:47+00:00; ProfBunazar; @Samuelsbpinheir Estou cansado de só escolher o menos pior. Muito cansado; 3; 0; 20; 0; https://twitter.com/ProfBunazar/status/1328840034909347840; None; None]
 [2020-11-17 23:18:24+00:00; ProfBunazar; @DimiMouraa Estou de saco cheio.; 0; 0; 1; 0; https://twitter.com/ProfBunazar/status/1328839936112517134; None; None]
@@ -234,8 +225,7 @@ Estamos muito bem. https://t.co/a587h3EkyS; 2; 1; 19; 0; https://twitter.com/Pro
 [2020-11-15 01:29:55+00:00; ProfBunazar; “Sê instrumento: de ouro ou de aço; de platina ou de ferro; grande ou pequeno; delicado ou tosco. Todos são úteis. Cada um tem sua missão própria. Quem se atreverá a dizer que é menos útil o serrote do carpinteiro do que as pinças do cirurgião?” São José Maria Escrivá; 3; 7; 86; 0; https://twitter.com/ProfBunazar/status/1327785870062194688; None; None]
 [2020-11-14 19:27:13+00:00; ProfBunazar; @moreiracoxa Opa. Já li bastante. Confesso que não tudo, porque ele tem uma vasta obra; 0; 0; 12; 0; https://twitter.com/ProfBunazar/status/1327694596080623622; None; None]
 [2020-11-14 19:26:26+00:00; ProfBunazar; Detalhe: eu NUNCA fui olavista. Nem por meio minuto. Mas o medo que ele mete nessa galerinha me faz (quase) ter arrependimento de ter muitas vezes debochado dele. https://t.co/6qgXrbj036; 1; 1; 53; 0; https://twitter.com/ProfBunazar/status/1327694398050738176; None; https://twitter.com/ProfBunazar/status/1327693139927298048]
-[2020-11-14 19:21:26+00:00; ProfBunazar; Você não gosta do Olavo? Nem eu.
-Faça assim: 1. Não leia o Olavo; 2. Brigue com ele por aqui ou pelo Facebook (eu faço isso direto); 3. Escreva um livro contra ele. Impedir o cara de ganhar dinheiro vendendo livro ou aula é coisa de canalha covarde.; 16; 29; 526; 2; https://twitter.com/ProfBunazar/status/1327693139927298048; None; None]
+[2020-11-14 19:21:26+00:00; ProfBunazar; Você não gosta do Olavo? Nem eu. Faça assim: 1. Não leia o Olavo; 2. Brigue com ele por aqui ou pelo Facebook (eu faço isso direto); 3. Escreva um livro contra ele. Impedir o cara de ganhar dinheiro vendendo livro ou aula é coisa de canalha covarde.; 16; 29; 526; 2; https://twitter.com/ProfBunazar/status/1327693139927298048; None; None]
 [2020-11-14 19:18:42+00:00; ProfBunazar; @roxmo @Jrodrigues1954 Juro que mudo para Curitiba; 1; 1; 14; 0; https://twitter.com/ProfBunazar/status/1327692450660573190; None; None]
 [2020-11-14 18:51:31+00:00; ProfBunazar; @barbarafpavan 😍; 0; 0; 0; 0; https://twitter.com/ProfBunazar/status/1327685610128207872; None; None]
 [2020-11-14 18:44:51+00:00; ProfBunazar; @milenereis @guuus Me atacou eu dou block também. Tô nem aí; 0; 0; 0; 0; https://twitter.com/ProfBunazar/status/1327683934923190275; None; None]
@@ -540,12 +530,9 @@ Faça assim: 1. Não leia o Olavo; 2. Brigue com ele por aqui ou pelo Facebook (
 [2020-11-03 17:19:25+00:00; ProfBunazar; @saulao78 São trechos, meu amigo!; 3; 0; 2; 0; https://twitter.com/ProfBunazar/status/1323676164691529729; None; None]
 [2020-11-03 17:18:25+00:00; ProfBunazar; @mattesco_ Oh minha patroa, eu não vi a audiência inteira. Estou velho demais para me manifestar sobre trechos isolados.; 2; 0; 22; 0; https://twitter.com/ProfBunazar/status/1323675913976975361; None; None]
 [2020-11-03 17:16:43+00:00; ProfBunazar; @saulao78 Leu a sentença Saulo? Envie aqui para nós. Até agora, pelo que sei, ninguém teve acesso...; 3; 0; 6; 0; https://twitter.com/ProfBunazar/status/1323675487529586689; None; None]
-[2020-11-03 17:00:13+00:00; ProfBunazar; Juristas brasileiros sobre o julgamento de um acusado de tráfico ou de latrocínio: “Contraditório, ampla defesa, recurso para ONU, saída pelo risco de COVID”
-Juristas brasileiros sobre julgamento de acusado de racismo ou estupro: “cadeia nele, impunidade, sistema canalha”; 9; 16; 211; 4; https://twitter.com/ProfBunazar/status/1323671334161993736; None; None]
+[2020-11-03 17:00:13+00:00; ProfBunazar; Juristas brasileiros sobre o julgamento de um acusado de tráfico ou de latrocínio: “Contraditório, ampla defesa, recurso para ONU, saída pelo risco de COVID” Juristas brasileiros sobre julgamento de acusado de racismo ou estupro: “cadeia nele, impunidade, sistema canalha”; 9; 16; 211; 4; https://twitter.com/ProfBunazar/status/1323671334161993736; None; None]
 [2020-11-03 16:54:26+00:00; ProfBunazar; @mcarolinamello A senhora que participou da audiência tem mais elementos para falar do que eu. Eu só quero ler os autos antes de formar uma opinião. Eu tenho essa mania boba.; 0; 0; 11; 0; https://twitter.com/ProfBunazar/status/1323669880739143683; None; None]
-[2020-11-03 16:39:35+00:00; ProfBunazar; 23:59: não podemos julgar ninguém antecipadamente;
-00:00: Promotor burro, juiz ignorante, advogado canalha.
-O Brasil cansa.....; 35; 61; 741; 12; https://twitter.com/ProfBunazar/status/1323666142909632512; None; None]
+[2020-11-03 16:39:35+00:00; ProfBunazar; 23:59: não podemos julgar ninguém antecipadamente; 00:00: Promotor burro, juiz ignorante, advogado canalha. O Brasil cansa.....; 35; 61; 741; 12; https://twitter.com/ProfBunazar/status/1323666142909632512; None; None]
 [2020-11-03 16:30:18+00:00; ProfBunazar; @wesleymir Concordo com você; 0; 0; 1; 0; https://twitter.com/ProfBunazar/status/1323663804568346625; None; None]
 [2020-11-03 16:30:08+00:00; ProfBunazar; @wesleymir Veja meu último tuíte; 0; 0; 3; 0; https://twitter.com/ProfBunazar/status/1323663764022042624; None; None]
 [2020-11-03 16:29:41+00:00; ProfBunazar; Pessoal, vamos devagar. Vamos esperar sair o parecer do MP e a sentença do juiz. Eu acho muito improvável que o promotor ou o juiz tenham falado que houve estupro culposo. Posso apostar que a absolvição foi por erro de tipo. Sou só um civilista, mas acho prudente aguardar.; 28; 17; 328; 7; https://twitter.com/ProfBunazar/status/1323663650184376320; None; None]
@@ -634,8 +621,7 @@ O Brasil cansa.....; 35; 61; 741; 12; https://twitter.com/ProfBunazar/status/132
 [2020-10-28 17:11:57+00:00; ProfBunazar; @profaflavia O SUS é um dos melhores sistemas do mundo; 5; 0; 5; 1; https://twitter.com/ProfBunazar/status/1321499959334678529; None; None]
 [2020-10-28 17:07:03+00:00; ProfBunazar; @profaflavia Quem falou uma idiotice dessas?; 3; 0; 14; 0; https://twitter.com/ProfBunazar/status/1321498725190160385; None; None]
 [2020-10-28 17:06:06+00:00; ProfBunazar; @DimiMouraa Paixão oh paixão; 0; 0; 0; 0; https://twitter.com/ProfBunazar/status/1321498487570243584; None; None]
-[2020-10-28 16:44:36+00:00; ProfBunazar; 1º. É bravata eleitoreira da grossa;
-2º. Se não fosse bravata (e é), seria improbidade administrativa, no mínimo. https://t.co/zqFcb1B7fO; 4; 11; 117; 1; https://twitter.com/ProfBunazar/status/1321493079539462144; None; https://twitter.com/UOL/status/1321492158159986689]
+[2020-10-28 16:44:36+00:00; ProfBunazar; 1º. É bravata eleitoreira da grossa; 2º. Se não fosse bravata (e é), seria improbidade administrativa, no mínimo. https://t.co/zqFcb1B7fO; 4; 11; 117; 1; https://twitter.com/ProfBunazar/status/1321493079539462144; None; https://twitter.com/UOL/status/1321492158159986689]
 [2020-10-28 14:44:41+00:00; ProfBunazar; @PeleArrepiada @Leletakeo No conjur tem. Eu não tenho ;); 0; 0; 1; 0; https://twitter.com/ProfBunazar/status/1321462899391582209; None; None]
 [2020-10-28 13:33:43+00:00; ProfBunazar; @PeleArrepiada @Leletakeo O acórdão está muito bem fundamentado. Não foi a questão da titularidade do nome “católicas”.; 1; 0; 0; 0; https://twitter.com/ProfBunazar/status/1321445041332719618; None; None]
 [2020-10-28 13:17:24+00:00; ProfBunazar; @maoribeiro Hahahaha. Que fofa; 1; 0; 1; 0; https://twitter.com/ProfBunazar/status/1321440935264292868; None; None]
@@ -737,8 +723,7 @@ O Brasil cansa.....; 35; 61; 741; 12; https://twitter.com/ProfBunazar/status/132
 [2020-10-22 14:28:27+00:00; ProfBunazar; Já mostrou que não serve para prefeito. Quer ser prefeito? Saiba que tem de cuidar de vaga em escola e creche; tapar buraco e deixar a cidade limpa. Ser prefeito não é coisa para megalomaníaco  que quer salvar o mundo inteiro da miséria. https://t.co/tNLEY70vpr; 32; 77; 879; 10; https://twitter.com/ProfBunazar/status/1319284489135091716; None; https://twitter.com/GuilhermeBoulos/status/1318994765883592711]
 [2020-10-22 02:49:59+00:00; ProfBunazar; @milenereis @HelemAzevedo O expresso da meia noite é da Ágatha. Isso que quis dizer rs; 2; 0; 1; 0; https://twitter.com/ProfBunazar/status/1319108711844139013; None; None]
 [2020-10-22 02:24:49+00:00; ProfBunazar; @milenereis @HelemAzevedo Da Ágatha Christina também; 1; 0; 3; 0; https://twitter.com/ProfBunazar/status/1319102376897372164; None; None]
-[2020-10-22 01:28:57+00:00; ProfBunazar; Casa 13 parece nome de lugar ruim, né?  “Olha, o que o senhor fez foi grave. Não tenho outra opção a não ser lhe mandar para a Casa 13”.
-“Xi, esse é problemático, ficou um tempão lá na casa 13”. https://t.co/Rq4FE8EFFK; 1; 1; 46; 0; https://twitter.com/ProfBunazar/status/1319088318974480386; None; https://twitter.com/LulaOficial/status/1319014535907377156]
+[2020-10-22 01:28:57+00:00; ProfBunazar; Casa 13 parece nome de lugar ruim, né?  “Olha, o que o senhor fez foi grave. Não tenho outra opção a não ser lhe mandar para a Casa 13”. “Xi, esse é problemático, ficou um tempão lá na casa 13”. https://t.co/Rq4FE8EFFK; 1; 1; 46; 0; https://twitter.com/ProfBunazar/status/1319088318974480386; None; https://twitter.com/LulaOficial/status/1319014535907377156]
 [2020-10-22 01:26:07+00:00; ProfBunazar; @BruuMestriner Hahahahahahahahahahah. Estou rindo, mas com pena e respeito; 0; 0; 1; 0; https://twitter.com/ProfBunazar/status/1319087608543182849; None; None]
 [2020-10-22 01:20:46+00:00; ProfBunazar; Verdade pura https://t.co/lv2tnr8wzQ; 1; 6; 72; 1; https://twitter.com/ProfBunazar/status/1319086261336985601; None; https://twitter.com/AndreaMatarazzo/status/1319017853547433984]
 [2020-10-22 01:08:07+00:00; ProfBunazar; @maoribeiro 😂😂😂; 0; 0; 1; 0; https://twitter.com/ProfBunazar/status/1319083078543953921; None; None]
@@ -1019,9 +1004,7 @@ O Brasil cansa.....; 35; 61; 741; 12; https://twitter.com/ProfBunazar/status/132
 [2020-09-29 12:36:41+00:00; ProfBunazar; @eobrums Sim... sou super bolsominion!!! Amo o mito e amo o Lula. Vivo nesse paradoxo!! :); 1; 0; 10; 0; https://twitter.com/ProfBunazar/status/1310921440380817408; None; None]
 [2020-09-29 12:35:14+00:00; ProfBunazar; @ruauch_ @Retchalian Cara, você não está a fim de debater. Você é um coitadinho que só sabe ofender. Estou bloqueando você.; 2; 0; 3; 0; https://twitter.com/ProfBunazar/status/1310921072368398343; None; None]
 [2020-09-29 12:34:20+00:00; ProfBunazar; @Retchalian Eu sei disso! Foi justamente o quebrei disse! Da mesma forma que nenhum cristão de verdade ataca os outros!!; 1; 0; 2; 0; https://twitter.com/ProfBunazar/status/1310920849680150529; None; None]
-[2020-09-29 12:24:33+00:00; ProfBunazar; Um “cristão” ataca um terreiro de macumba: TODOS os cristãos são intolerantes. 
-Um membro de religião de matriz africana mata alguém em um ritual de magia negra: TODOS os seguidores dessas religiões africanas são assassinos.
-Não conseguem ver que tomar um pelo TODO é burrice?; 38; 138; 1177; 10; https://twitter.com/ProfBunazar/status/1310918387267260418; None; None]
+[2020-09-29 12:24:33+00:00; ProfBunazar; Um “cristão” ataca um terreiro de macumba: TODOS os cristãos são intolerantes.  Um membro de religião de matriz africana mata alguém em um ritual de magia negra: TODOS os seguidores dessas religiões africanas são assassinos. Não conseguem ver que tomar um pelo TODO é burrice?; 38; 138; 1177; 10; https://twitter.com/ProfBunazar/status/1310918387267260418; None; None]
 [2020-09-29 12:19:42+00:00; ProfBunazar; @ruauch_ @oleoguimaraess @caio_ramos01 Você é um baita preconceituoso. Você diz que o cristianismo mata porque um “cristão” criminoso praticou um crime. Você não vai me ver dizer que religiões de matriz africana são assassinas porque alguém foi assassinado em em ritual de magia negra. Não discuto com quem age assim.; 2; 0; 1; 0; https://twitter.com/ProfBunazar/status/1310917163520266240; None; None]
 [2020-09-29 12:16:33+00:00; ProfBunazar; @ruauch_ @oleoguimaraess @caio_ramos01 Cai fora vai. Que cara chato.....; 2; 0; 0; 0; https://twitter.com/ProfBunazar/status/1310916370494877696; None; None]
 [2020-09-29 12:14:45+00:00; ProfBunazar; @ruauch_ @manedacarmela @marinices Que diabos isso tem a ver com PIADA????; 1; 0; 0; 0; https://twitter.com/ProfBunazar/status/1310915919015809025; None; None]
@@ -1200,10 +1183,7 @@ Não conseguem ver que tomar um pelo TODO é burrice?; 38; 138; 1177; 10; https:
 [2020-09-07 17:48:51+00:00; ProfBunazar; @CaroICH @madeiradez Não sei... não sei; 0; 0; 2; 0; https://twitter.com/ProfBunazar/status/1303027465581998081; None; None]
 [2020-09-07 17:26:12+00:00; ProfBunazar; @madeiradez Você perdeu o senso de proporção. Não se brinca com coisa séria; 0; 0; 1; 0; https://twitter.com/ProfBunazar/status/1303021767053766657; None; None]
 [2020-09-07 17:04:54+00:00; ProfBunazar; @AndreataMarcel Sério? Por quê?; 1; 0; 0; 0; https://twitter.com/ProfBunazar/status/1303016406754177024; None; None]
-[2020-09-07 16:22:43+00:00; ProfBunazar; Existem lugares bonitos;
-Existem lugares lindos;
-Existem lugares exuberantese 
-Existe Roma!!!! https://t.co/iaEPdfbWSu; 18; 9; 361; 1; https://twitter.com/ProfBunazar/status/1303005789465051140; None; https://twitter.com/Ambrasile/status/1302704488726384641]
+[2020-09-07 16:22:43+00:00; ProfBunazar; Existem lugares bonitos; Existem lugares lindos; Existem lugares exuberantese  Existe Roma!!!! https://t.co/iaEPdfbWSu; 18; 9; 361; 1; https://twitter.com/ProfBunazar/status/1303005789465051140; None; https://twitter.com/Ambrasile/status/1302704488726384641]
 [2020-09-07 00:36:19+00:00; ProfBunazar; @jeffs_araujo35 @wesleydagama @ad1ai @tcmpacheco Eu tenho um pôster do Larusso; 1; 0; 2; 0; https://twitter.com/ProfBunazar/status/1302767619678834688; None; None]
 [2020-09-07 00:35:46+00:00; ProfBunazar; Que a Sagrada Família seja sempre o nosso modelo. Paz e Bem https://t.co/GIFGW3ADOq; 8; 14; 397; 3; https://twitter.com/ProfBunazar/status/1302767482021830656; None; None]
 [2020-09-04 22:46:21+00:00; ProfBunazar; @JuniorRezendee7 Parabéns; 0; 0; 4; 0; https://twitter.com/ProfBunazar/status/1302015170252812289; None; None]
@@ -1698,8 +1678,7 @@ Existe Roma!!!! https://t.co/iaEPdfbWSu; 18; 9; 361; 1; https://twitter.com/Prof
 [2020-07-08 17:50:46+00:00; ProfBunazar; @jeffs_araujo35 @ConservaTeeLoja @DANIELMATADOR9 Valeu. Que demais; 1; 0; 1; 0; https://twitter.com/ProfBunazar/status/1280922289807273985; None; None]
 [2020-07-08 17:35:41+00:00; ProfBunazar; @antiantis8 Beleza! Larga de ser preguiçoso e olha minha tl, beleza? Abraços, beleza?; 1; 0; 0; 0; https://twitter.com/ProfBunazar/status/1280918490287935488; None; None]
 [2020-07-08 16:32:42+00:00; ProfBunazar; @82unofal Ok Bruno. Abraços; 1; 0; 1; 0; https://twitter.com/ProfBunazar/status/1280902641447550976; None; None]
-[2020-07-08 16:18:56+00:00; ProfBunazar; @riadelkouba Mas veja minha tl e veja quando fui incoerente.
-Sempre defendi a L.exp; 1; 0; 1; 0; https://twitter.com/ProfBunazar/status/1280899175857762307; None; None]
+[2020-07-08 16:18:56+00:00; ProfBunazar; @riadelkouba Mas veja minha tl e veja quando fui incoerente. Sempre defendi a L.exp; 1; 0; 1; 0; https://twitter.com/ProfBunazar/status/1280899175857762307; None; None]
 [2020-07-08 16:11:16+00:00; ProfBunazar; @Zoppiski É um exagero, mas agradeço muitíssimo o carinho; 0; 0; 0; 0; https://twitter.com/ProfBunazar/status/1280897248528945153; None; None]
 [2020-07-08 16:09:16+00:00; ProfBunazar; @horanrolim Diga isso a ele. Eu achei o artigo nojento:; 0; 0; 1; 0; https://twitter.com/ProfBunazar/status/1280896743261921280; None; None]
 [2020-07-08 16:05:49+00:00; ProfBunazar; @WalterBlanco13 Valter, abraço.; 0; 0; 0; 0; https://twitter.com/ProfBunazar/status/1280895875599007746; None; None]
@@ -1778,14 +1757,8 @@ Sempre defendi a L.exp; 1; 0; 1; 0; https://twitter.com/ProfBunazar/status/12808
 [2020-06-30 23:17:34+00:00; ProfBunazar; @Tatianewest38 Sororidade deveria estar na lista; 0; 1; 2; 0; https://twitter.com/ProfBunazar/status/1278105428732362754; None; None]
 [2020-06-30 21:08:02+00:00; ProfBunazar; Será que conseguimos um ministro que tenha um currículo verdadeiro E saiba que a Terra não é plana? Talvez exigir ambos os requisitos ao mesmo tempo seja sonhar demais... https://t.co/FlzaJ7sxym; 4; 2; 62; 0; https://twitter.com/ProfBunazar/status/1278072827590164480; None; https://twitter.com/UOL/status/1278071276846931974]
 [2020-06-30 20:49:54+00:00; ProfBunazar; @ECavalcante_ 😂; 0; 0; 11; 0; https://twitter.com/ProfBunazar/status/1278068263461826560; None; None]
-[2020-06-30 20:45:16+00:00; ProfBunazar; @BaldacciRoberto Cai fora daqui, covarde 
-Hahahahahahha; 1; 0; 2; 0; https://twitter.com/ProfBunazar/status/1278067100708491264; None; None]
-[2020-06-30 18:36:48+00:00; ProfBunazar; Novo normal;
-Empoderamento;
-Lugar de fala;
-Heteronormativo;
-Cisnormativo;
-Cada vez que ouço essas palavras, tenho vontade de perfurar meus ouvidos.; 90; 225; 2086; 24; https://twitter.com/ProfBunazar/status/1278034769490690049; None; None]
+[2020-06-30 20:45:16+00:00; ProfBunazar; @BaldacciRoberto Cai fora daqui, covarde  Hahahahahahha; 1; 0; 2; 0; https://twitter.com/ProfBunazar/status/1278067100708491264; None; None]
+[2020-06-30 18:36:48+00:00; ProfBunazar; Novo normal; Empoderamento; Lugar de fala; Heteronormativo; Cisnormativo; Cada vez que ouço essas palavras, tenho vontade de perfurar meus ouvidos.; 90; 225; 2086; 24; https://twitter.com/ProfBunazar/status/1278034769490690049; None; None]
 [2020-06-30 16:53:55+00:00; ProfBunazar; @HelemAzevedo 😂; 0; 0; 1; 0; https://twitter.com/ProfBunazar/status/1278008879943692292; None; None]
 [2020-06-30 16:41:41+00:00; ProfBunazar; @HelemAzevedo Helem “isentona” em 3, 2....; 3; 0; 6; 0; https://twitter.com/ProfBunazar/status/1278005799571382272; None; None]
 [2020-06-30 14:51:26+00:00; ProfBunazar; “A onda de esoterismo que observamos hoje mostra que, no racionalismo positivista dominante, as camadas mais profundas da condição humana não conseguem mais ser integradas, e por isso as formas atávicas da superstição voltam a ganhar ascendência sobre o homem”. Perfeito!!; 4; 2; 29; 0; https://twitter.com/ProfBunazar/status/1277978053432340486; None; None]
@@ -1825,9 +1798,7 @@ Cada vez que ouço essas palavras, tenho vontade de perfurar meus ouvidos.; 90; 
 [2020-06-27 11:54:13+00:00; ProfBunazar; @barbarafpavan Nunca!! Estou maratonando; 1; 0; 1; 0; https://twitter.com/ProfBunazar/status/1276846291625140224; None; None]
 [2020-06-27 03:30:30+00:00; ProfBunazar; O @madeiradez é o responsável; 0; 0; 21; 0; https://twitter.com/ProfBunazar/status/1276719526764134400; None; None]
 [2020-06-27 03:29:51+00:00; ProfBunazar; Eu estou assistindo The Office. É fantástico. Quanto tempo eu perdi!!!; 30; 9; 334; 5; https://twitter.com/ProfBunazar/status/1276719363123490816; None; None]
-[2020-06-27 01:21:24+00:00; ProfBunazar; @jeffs_araujo35 Q
-U
-E SACO; 0; 0; 12; 0; https://twitter.com/ProfBunazar/status/1276687041196064768; None; None]
+[2020-06-27 01:21:24+00:00; ProfBunazar; @jeffs_araujo35 Q U E SACO; 0; 0; 12; 0; https://twitter.com/ProfBunazar/status/1276687041196064768; None; None]
 [2020-06-26 23:05:07+00:00; ProfBunazar; @jeffs_araujo35 Hahahahahahahan; 0; 0; 1; 0; https://twitter.com/ProfBunazar/status/1276652741050413058; None; None]
 [2020-06-26 19:51:46+00:00; ProfBunazar; Não acredito? Sério? Meu Deus, que surpresa. Só me falta, agora, dizerem que isso ocorre em Cuba também!!! https://t.co/SptGIGEjGs; 16; 117; 870; 5; https://twitter.com/ProfBunazar/status/1276604084557164544; None; https://twitter.com/VEJA/status/1276535957152575489]
 [2020-06-26 19:37:02+00:00; ProfBunazar; @DevissonBomfim Calma, amigo. Não sabia que você era sanfoneiro; 0; 0; 2; 0; https://twitter.com/ProfBunazar/status/1276600376142290947; None; None]
@@ -1880,10 +1851,7 @@ E SACO; 0; 0; 12; 0; https://twitter.com/ProfBunazar/status/1276687041196064768;
 [2020-06-21 18:26:54+00:00; ProfBunazar; @CAPOLIDORO Que preguiça desse argumentinho infeliz...; 1; 0; 0; 0; https://twitter.com/ProfBunazar/status/1274770789129244673; None; None]
 [2020-06-21 17:13:05+00:00; ProfBunazar; “Também não era hipocrita seu ódio à anarquia. Ele era daqueles que cedo na vida são levados a tomar uma atitude demasiado conservadora por causa da loucura confusa da maioria dos revolucionários” (O homem que era Quinta-feira); 1; 3; 33; 0; https://twitter.com/ProfBunazar/status/1274752210908385282; None; None]
 [2020-06-21 14:49:33+00:00; ProfBunazar; @ProfessorSimao :); 0; 0; 2; 0; https://twitter.com/ProfBunazar/status/1274716091667943429; None; None]
-[2020-06-21 12:09:32+00:00; ProfBunazar; Sempre tive repulsa pelas justificativas do tipo “isso é comum”; “todo mundo faz”, “só puniram agora porque é com ele/ela”.
-As pedaladas eram comuns;
-A rachadinha é prática comum.
-O Brasil cansa.; 36; 142; 1261; 5; https://twitter.com/ProfBunazar/status/1274675821324701697; None; None]
+[2020-06-21 12:09:32+00:00; ProfBunazar; Sempre tive repulsa pelas justificativas do tipo “isso é comum”; “todo mundo faz”, “só puniram agora porque é com ele/ela”. As pedaladas eram comuns; A rachadinha é prática comum. O Brasil cansa.; 36; 142; 1261; 5; https://twitter.com/ProfBunazar/status/1274675821324701697; None; None]
 [2020-06-21 12:06:55+00:00; ProfBunazar; @rafaeljdias_ Sim, a questão é que a pecha de racista recai consideravelmente mais sobre os republicanos.; 0; 0; 1; 0; https://twitter.com/ProfBunazar/status/1274675160767959040; None; None]
 [2020-06-21 11:36:29+00:00; ProfBunazar; @PeleArrepiada Sim!!!; 1; 0; 0; 0; https://twitter.com/ProfBunazar/status/1274667500991586304; None; None]
 [2020-06-21 11:36:00+00:00; ProfBunazar; @ramenzoni_rod Detesto; 2; 0; 1; 0; https://twitter.com/ProfBunazar/status/1274667381323857921; None; None]
@@ -1935,12 +1903,7 @@ O Brasil cansa.; 36; 142; 1261; 5; https://twitter.com/ProfBunazar/status/127467
 [2020-06-15 19:53:53+00:00; ProfBunazar; @PedroBunazar Quem é o mestre?; 1; 0; 0; 0; https://twitter.com/ProfBunazar/status/1272618349655142408; None; None]
 [2020-06-15 19:51:46+00:00; ProfBunazar; @jeffs_araujo35 Eu tenho vontade de chorar. Não é metáfora.; 1; 1; 38; 0; https://twitter.com/ProfBunazar/status/1272617817494499330; None; None]
 [2020-06-15 19:43:52+00:00; ProfBunazar; @PedroBunazar “Você é bom”; 1; 0; 0; 0; https://twitter.com/ProfBunazar/status/1272615829876736006; None; None]
-[2020-06-15 13:12:15+00:00; ProfBunazar; Aos meus colegas advogados, dedico esse trechinho do Drummond:
-“Lutar com palavras 
-é a luta mais vã.
-Entanto lutamos
-mal rompe a manhã” 
-Excelente semana a todos; 0; 1; 83; 1; https://twitter.com/ProfBunazar/status/1272517277800443913; None; None]
+[2020-06-15 13:12:15+00:00; ProfBunazar; Aos meus colegas advogados, dedico esse trechinho do Drummond: “Lutar com palavras  é a luta mais vã. Entanto lutamos mal rompe a manhã”  Excelente semana a todos; 0; 1; 83; 1; https://twitter.com/ProfBunazar/status/1272517277800443913; None; None]
 [2020-06-15 12:16:42+00:00; ProfBunazar; @mlsermaria Oi?; 1; 0; 4; 0; https://twitter.com/ProfBunazar/status/1272503297195290625; None; None]
 [2020-06-15 11:48:19+00:00; ProfBunazar; Quando o Frota começou a dar chilique na internet, xingar os outros etc,eu disse que ele seria candidato e que seria eleito com folga. Disse que ele não me convencia. Muitos disseram que ele era um verdadeiro conservador (piada). Agora é a vez dessa mocinha. Será eleita com folga; 20; 15; 307; 4; https://twitter.com/ProfBunazar/status/1272496153247047682; None; None]
 [2020-06-15 00:26:18+00:00; ProfBunazar; @PeSilvioRoberto Amém padre. A comunhão faz uma falta terrível; 0; 0; 9; 0; https://twitter.com/ProfBunazar/status/1272324518871289856; None; None]
@@ -2002,12 +1965,7 @@ Excelente semana a todos; 0; 1; 83; 1; https://twitter.com/ProfBunazar/status/12
 [2020-06-11 01:03:44+00:00; ProfBunazar; @fedurante Não quero argumentar não. Abração; 2; 0; 0; 0; https://twitter.com/ProfBunazar/status/1270884385760382976; None; None]
 [2020-06-11 01:01:11+00:00; ProfBunazar; @fedurante Beleza. Abraços; 1; 0; 0; 0; https://twitter.com/ProfBunazar/status/1270883744098942977; None; None]
 [2020-06-10 23:43:32+00:00; ProfBunazar; @walmirisco Já “historiadores” que dizem que Hitler não era tão mau assim.... vamos levar isso a sério? Melhor não né; 1; 0; 3; 0; https://twitter.com/ProfBunazar/status/1270864205831450625; None; None]
-[2020-06-10 23:42:03+00:00; ProfBunazar; @hugomraes QUEM
-FALOU 
-QUE 
-ELE
-ERA 
-RACISTA???????????????; 2; 0; 2; 0; https://twitter.com/ProfBunazar/status/1270863833071042562; None; None]
+[2020-06-10 23:42:03+00:00; ProfBunazar; @hugomraes QUEM FALOU  QUE  ELE ERA  RACISTA???????????????; 2; 0; 2; 0; https://twitter.com/ProfBunazar/status/1270863833071042562; None; None]
 [2020-06-10 23:25:10+00:00; ProfBunazar; Tratar o Churchill como vilão tem tanta lógica quanto tratar o Hitler como herói: imbecilidade e canalhice puras.; 14; 32; 296; 4; https://twitter.com/ProfBunazar/status/1270859584102699008; None; None]
 [2020-06-10 23:19:07+00:00; ProfBunazar; Eu tenho um quadro do Churchill em meu escritório. A depender da conclusão da BBC, trocarei por um do Hitler. https://t.co/bTgaQDQoUu; 8; 4; 84; 1; https://twitter.com/ProfBunazar/status/1270858058311270400; None; https://twitter.com/laurentinogomes/status/1270856784799059974]
 [2020-06-10 23:02:05+00:00; ProfBunazar; @caipira_maluco_ Acho que quem não se deu conta foi você...; 1; 0; 0; 0; https://twitter.com/ProfBunazar/status/1270853772978335745; None; None]
@@ -2032,8 +1990,7 @@ RACISTA???????????????; 2; 0; 2; 0; https://twitter.com/ProfBunazar/status/12708
 [2020-06-10 14:14:53+00:00; ProfBunazar; @BahCzto Hahahahahaha. Boa; 0; 0; 0; 0; https://twitter.com/ProfBunazar/status/1270721098858946561; None; None]
 [2020-06-10 01:20:54+00:00; ProfBunazar; @mauro_ellovitch “Quem mandou ele enfeitar o bar com meu amigo”; 0; 0; 4; 0; https://twitter.com/ProfBunazar/status/1270526319575674880; None; None]
 [2020-06-09 23:56:49+00:00; ProfBunazar; @caiobartine Isso; 0; 0; 6; 0; https://twitter.com/ProfBunazar/status/1270505159823691784; None; None]
-[2020-06-09 23:49:12+00:00; ProfBunazar; Eu escrevo alguma coisa, aí, como refutação, recebo: “macho opina”; “branco opina”. Eu nao escrevo nada e recebo: “professor, não acha que deveria falar algo?”
-Resumindo: o prazer é encher o saco dos outros.....; 20; 68; 1152; 2; https://twitter.com/ProfBunazar/status/1270503243622354945; None; None]
+[2020-06-09 23:49:12+00:00; ProfBunazar; Eu escrevo alguma coisa, aí, como refutação, recebo: “macho opina”; “branco opina”. Eu nao escrevo nada e recebo: “professor, não acha que deveria falar algo?” Resumindo: o prazer é encher o saco dos outros.....; 20; 68; 1152; 2; https://twitter.com/ProfBunazar/status/1270503243622354945; None; None]
 [2020-06-09 23:44:42+00:00; ProfBunazar; @hilberlustosa Não pode?; 0; 0; 0; 0; https://twitter.com/ProfBunazar/status/1270502111533563908; None; None]
 [2020-06-09 23:36:13+00:00; ProfBunazar; @FigaroAndre Cansa demais; 0; 0; 5; 0; https://twitter.com/ProfBunazar/status/1270499974170783744; None; None]
 [2020-06-09 22:16:48+00:00; ProfBunazar; @FigaroAndre Eu não tenho só antipatia, tenho pavor. Sempre que alguém “resignifica” significa que alguém perdeu algum direito...; 2; 0; 27; 0; https://twitter.com/ProfBunazar/status/1270479988521910272; None; None]
@@ -2250,8 +2207,7 @@ Resumindo: o prazer é encher o saco dos outros.....; 20; 68; 1152; 2; https://t
 [2020-05-28 19:36:43+00:00; ProfBunazar; A cada dia que passa, mais gente hipócrita se revela. Nas duas últimas semanas, estamos vivendo a fase “juristas de ocasião”. Para esta espécie, pouco importa a atrocidade cometida; se ela for favorável ao lado que ele defende, ele estará pronto a emprestar-lhe o seu “bom” nome.; 10; 30; 365; 7; https://twitter.com/ProfBunazar/status/1266091047739961350; None; None]
 [2020-05-28 16:53:34+00:00; ProfBunazar; Este é o centro da Cidade de São Paulo, hoje. Inúmeros miseráveis que só não estão totalmente abandonados à própria sorte em razão do auxílio que recebem da Igreja Católica. Deus tenha misericórdia de nós. https://t.co/LTxOZLdlZj; 7; 27; 251; 2; https://twitter.com/ProfBunazar/status/1266049989651898370; None; None]
 [2020-05-28 14:00:53+00:00; ProfBunazar; @sigaoflavio Eu sei quem é!! Nossa Poliana mais amada 🤣🤣; 2; 0; 13; 0; https://twitter.com/ProfBunazar/status/1266006533671878656; None; None]
-[2020-05-28 02:59:56+00:00; ProfBunazar; Para o bem da alma: Fé, esperança e caridade.
-Para o bem da sociedade: Justiça, força, temperança e fortaleza.; 0; 6; 126; 0; https://twitter.com/ProfBunazar/status/1265840201265344512; None; None]
+[2020-05-28 02:59:56+00:00; ProfBunazar; Para o bem da alma: Fé, esperança e caridade. Para o bem da sociedade: Justiça, força, temperança e fortaleza.; 0; 6; 126; 0; https://twitter.com/ProfBunazar/status/1265840201265344512; None; None]
 [2020-05-28 00:07:31+00:00; ProfBunazar; @bethmoreno @profapatricia Maravilhosa mesmo; 0; 0; 2; 0; https://twitter.com/ProfBunazar/status/1265796811777814528; None; None]
 [2020-05-28 00:05:24+00:00; ProfBunazar; @FigaroAndre Hahahahahhahaahahah; 0; 0; 5; 0; https://twitter.com/ProfBunazar/status/1265796275817066496; None; None]
 [2020-05-27 01:43:30+00:00; ProfBunazar; @FriedHardt Hahahahhahahahahahhahahahahahahahahahahaha; 0; 0; 2; 0; https://twitter.com/ProfBunazar/status/1265458575234695175; None; None]
@@ -2513,15 +2469,10 @@ Para o bem da sociedade: Justiça, força, temperança e fortaleza.; 0; 6; 126; 
 [2020-05-13 12:34:59+00:00; ProfBunazar; @opropriopontes @jeffs_araujo35 @mrassiz @adrianodgf @msalbuquerque27 @mauro_ellovitch @cdnovais @ReneedoOSouza1 @suxberger @Padu2710 @RogerioSanchesC @mikedeodato @LelioCalhau @jeffdiasmpf @VladimirAras @renatagilamb @mcbretas @ThomasVConti @ayres_britto @marcelomansour4 @JaniceAscari @MarcoCa86623497 @amorimjuripoa @CarrinhoMuniz @e_mougenot @jgaseixas @jpbrnt @AlexandreJus @mirellabbrito @promotorkrebs @santosocmathias @ludmilagrilo @DiegoPessi @crmorais72 @WesleyVaz @flapinheiro @RezRenato @wesleymir @odineidraeger @Leoj_Ojuara @ebrunatti @anafischer @pfnery @agpatriota @dariojjunior Passo a bola para @ProfessorSimao , @BaldacciRoberto, @madeiradez , @paulobaccarat, @juizrafael https://t.co/y1i8lNLZyi; 2; 0; 11; 0; https://twitter.com/ProfBunazar/status/1260549099310350336; None; None]
 [2020-05-13 01:57:29+00:00; ProfBunazar; @VitordeAPerez @extimido2 @dalidalf Meu irmão, você não foi agressivo comigo e eu o tratei com ironia. Eu peço sinceramente perdão por isso. Boa noite. Paz e bem; 0; 0; 1; 0; https://twitter.com/ProfBunazar/status/1260388666645635077; None; None]
 [2020-05-13 01:49:15+00:00; ProfBunazar; @VitordeAPerez @extimido2 @dalidalf Não. Quem disse foi Aristoteles. Na verdade o Olavo escreveu o Ética a Nicômaco. Confundi; 2; 0; 0; 0; https://twitter.com/ProfBunazar/status/1260386594751688706; None; None]
-[2020-05-13 01:39:48+00:00; ProfBunazar; @VitordeAPerez @extimido2 @dalidalf 1º. Quem diz estas estultices é o Olavo;
-2º. Quem não tem razão é ele;
-3º. Já “mataram”. No plural; 1; 0; 0; 0; https://twitter.com/ProfBunazar/status/1260384217688616962; None; None]
+[2020-05-13 01:39:48+00:00; ProfBunazar; @VitordeAPerez @extimido2 @dalidalf 1º. Quem diz estas estultices é o Olavo; 2º. Quem não tem razão é ele; 3º. Já “mataram”. No plural; 1; 0; 0; 0; https://twitter.com/ProfBunazar/status/1260384217688616962; None; None]
 [2020-05-13 01:26:10+00:00; ProfBunazar; @dalidalf Ele ultrapassou todos os limites do bom senso. Todos. Minimizar um vírus que exterminou milhares de pessoas é cruel.; 2; 0; 1; 0; https://twitter.com/ProfBunazar/status/1260380783509999623; None; None]
 [2020-05-13 00:57:44+00:00; ProfBunazar; @VsrRocha @extimido2 Vocês tem um sério problema. Entre acreditar em tudo e não acreditar em nada, há o caminho do meio. Mas acho que não há salvação. Abraços; 1; 0; 5; 0; https://twitter.com/ProfBunazar/status/1260373628161527810; None; None]
-[2020-05-13 00:56:22+00:00; ProfBunazar; @dalidalf A terra é plana?
-Fumar faz bem?
-Pepsi tem feto?
-Ele tem razão?; 3; 0; 8; 0; https://twitter.com/ProfBunazar/status/1260373284266422277; None; None]
+[2020-05-13 00:56:22+00:00; ProfBunazar; @dalidalf A terra é plana? Fumar faz bem? Pepsi tem feto? Ele tem razão?; 3; 0; 8; 0; https://twitter.com/ProfBunazar/status/1260373284266422277; None; None]
 [2020-05-12 23:51:15+00:00; ProfBunazar; @mullerwj Aham. Abraços terraplanista; 0; 0; 9; 0; https://twitter.com/ProfBunazar/status/1260356896294408193; None; None]
 [2020-05-12 23:48:10+00:00; ProfBunazar; @dalidalf Ele escreveu: “Suposto vírus mortal”. A senhora ficou em dúvida em qual parte?; 1; 0; 16; 0; https://twitter.com/ProfBunazar/status/1260356124383084545; None; None]
 [2020-05-12 23:44:05+00:00; ProfBunazar; @I7hein @jeffs_araujo35 @sikerajr Obrigado. Quando aprender a respeitar as pessoas, será bem-vindo; 1; 0; 0; 0; https://twitter.com/ProfBunazar/status/1260355094396243973; None; None]
@@ -2563,13 +2514,7 @@ Ele tem razão?; 3; 0; 8; 0; https://twitter.com/ProfBunazar/status/126037328426
 [2020-05-10 15:57:55+00:00; ProfBunazar; Ligue para sua mãe, diga que a ama. Homenagem por rede social é um negócio que tem jeitinho de falsidade.; 27; 31; 541; 2; https://twitter.com/ProfBunazar/status/1259513002744844290; None; None]
 [2020-05-10 15:29:49+00:00; ProfBunazar; @FigaroAndre :); 0; 0; 0; 0; https://twitter.com/ProfBunazar/status/1259505933480271873; None; None]
 [2020-05-10 15:25:08+00:00; ProfBunazar; O que Chesterton disse sobre B. Shaw serve perfeitamente ao Robert Alexy: “Um homem cuja filosofia é muito sólida, muito coerente, e muito errada”.; 3; 1; 42; 0; https://twitter.com/ProfBunazar/status/1259504753031200773; None; None]
-[2020-05-10 14:10:32+00:00; ProfBunazar; @MichelePradoBa @jufragetti @PriscilaaNeri @Boscardin @camilepacheco @P_droMenezes Publico apenas a capa de um livro e passo para 6 pessoas: 
-@FigaroAndre 
-@paulobaccarat 
-@ProfessorSimao 
-@profaguirre 
-@BaldacciRoberto 
-@suheljunior https://t.co/54NZniyrsF; 1; 0; 4; 0; https://twitter.com/ProfBunazar/status/1259485981704695808; None; None]
+[2020-05-10 14:10:32+00:00; ProfBunazar; @MichelePradoBa @jufragetti @PriscilaaNeri @Boscardin @camilepacheco @P_droMenezes Publico apenas a capa de um livro e passo para 6 pessoas:  @FigaroAndre  @paulobaccarat  @ProfessorSimao  @profaguirre  @BaldacciRoberto  @suheljunior https://t.co/54NZniyrsF; 1; 0; 4; 0; https://twitter.com/ProfBunazar/status/1259485981704695808; None; None]
 [2020-05-10 13:55:11+00:00; ProfBunazar; @barbarafpavan @profapatricia Muito bom mesmo!!! Sempre iamos lá; 0; 0; 1; 0; https://twitter.com/ProfBunazar/status/1259482118767460352; None; None]
 [2020-05-10 13:51:52+00:00; ProfBunazar; @MichelePradoBa @saduh @jufragetti @PriscilaaNeri @Boscardin @camilepacheco @P_droMenezes Fantástico; 0; 0; 3; 0; https://twitter.com/ProfBunazar/status/1259481283358580740; None; None]
 [2020-05-10 00:55:20+00:00; ProfBunazar; @GordoGeek Hahahahahahhaababababababavavav; 0; 0; 0; 0; https://twitter.com/ProfBunazar/status/1259285862354948098; None; None]
@@ -2591,10 +2536,7 @@ Ele tem razão?; 3; 0; 8; 0; https://twitter.com/ProfBunazar/status/126037328426
 [2020-05-08 23:43:31+00:00; ProfBunazar; :) https://t.co/8nAK9brvtB; 5; 5; 129; 2; https://twitter.com/ProfBunazar/status/1258905401531252736; None; https://twitter.com/g1saopaulo/status/1258905056126140417]
 [2020-05-08 20:26:50+00:00; ProfBunazar; @OConcurseiro2 @brunocovas Hahahah; 0; 0; 0; 0; https://twitter.com/ProfBunazar/status/1258855902125469702; None; None]
 [2020-05-08 18:31:22+00:00; ProfBunazar; Não houve estudo nenhum. Houve um baita chute. Uma ideia péssima e irresponsável. https://t.co/YVDLu1qNGR; 12; 18; 299; 2; https://twitter.com/ProfBunazar/status/1258826847124697091; None; https://twitter.com/o_antagonista/status/1258826102786732032]
-[2020-05-08 18:26:55+00:00; ProfBunazar; Existem ideias ruins;
-Existem ideias péssimas;
-Existem ideias terríveis e
-Existem as ideias do @brunocovas; 19; 75; 549; 4; https://twitter.com/ProfBunazar/status/1258825725760507904; None; None]
+[2020-05-08 18:26:55+00:00; ProfBunazar; Existem ideias ruins; Existem ideias péssimas; Existem ideias terríveis e Existem as ideias do @brunocovas; 19; 75; 549; 4; https://twitter.com/ProfBunazar/status/1258825725760507904; None; None]
 [2020-05-08 15:37:57+00:00; ProfBunazar; @GordoGeek Habahahahaha; 0; 0; 0; 0; https://twitter.com/ProfBunazar/status/1258783202640003072; None; None]
 [2020-05-08 13:44:40+00:00; ProfBunazar; Pouco importa a boca que fala a verdade, o importante é o ouvido em que ela ecoa.; 2; 14; 129; 0; https://twitter.com/ProfBunazar/status/1258754695344140292; None; None]
 [2020-05-08 01:22:37+00:00; ProfBunazar; @jeffs_araujo35 Isso não acabará bem..; 2; 0; 3; 0; https://twitter.com/ProfBunazar/status/1258567953706102790; None; None]
@@ -2679,10 +2621,7 @@ Existem as ideias do @brunocovas; 19; 75; 549; 4; https://twitter.com/ProfBunaza
 [2020-05-03 19:38:19+00:00; ProfBunazar; @ZeroClickOk @Davidca68134100 Meu dileto Fábio, não se incomode. Eu fui xingado antes e estou sendo xingado agora. Não me aborreço; 0; 0; 1; 0; https://twitter.com/ProfBunazar/status/1257031754826858503; None; None]
 [2020-05-03 18:37:47+00:00; ProfBunazar; @EdicarlosOli Aliás, vou ajudar você; 1; 0; 14; 0; https://twitter.com/ProfBunazar/status/1257016522138095617; None; None]
 [2020-05-03 18:37:25+00:00; ProfBunazar; @EdicarlosOli Só parar de seguir. Eu, por exemplo, jamais seguiria você. Jamais; 2; 0; 68; 0; https://twitter.com/ProfBunazar/status/1257016426751242240; None; None]
-[2020-05-03 18:33:23+00:00; ProfBunazar; 11:58: Bolsonaro faz uma insinuação antidemocrática;
-11:59: Ministros do STF se manifestam rechaçando a insinuação;
-12:00: Bolsonaro diz que sua fala foi deturpada pela imprensa. 
-O Brasil cansa....; 59; 149; 1382; 9; https://twitter.com/ProfBunazar/status/1257015413415858177; None; None]
+[2020-05-03 18:33:23+00:00; ProfBunazar; 11:58: Bolsonaro faz uma insinuação antidemocrática; 11:59: Ministros do STF se manifestam rechaçando a insinuação; 12:00: Bolsonaro diz que sua fala foi deturpada pela imprensa.  O Brasil cansa....; 59; 149; 1382; 9; https://twitter.com/ProfBunazar/status/1257015413415858177; None; None]
 [2020-05-03 17:08:31+00:00; ProfBunazar; @jeffs_araujo35 Já estava ficando feio para mim... hahaah; 1; 0; 2; 0; https://twitter.com/ProfBunazar/status/1256994057991184385; None; None]
 [2020-05-03 17:06:52+00:00; ProfBunazar; @ronaldofrego @DaniloGentili Hahahahhajajajajajajahahahahhhahahahahahaahah; 1; 0; 3; 0; https://twitter.com/ProfBunazar/status/1256993641194758146; None; None]
 [2020-05-03 17:06:27+00:00; ProfBunazar; @renanbalves08 Renan, você é advogado. Sabe a diferença entre gravar conversa e manter as conversas. As conversas de WhatsApp e e-mail, por definição, ficam armazenadas. Não se trata de gravação de diálogos com o presidente, até onde se sabe.; 1; 0; 9; 0; https://twitter.com/ProfBunazar/status/1256993535389315073; None; None]
@@ -2786,8 +2725,7 @@ O Brasil cansa....; 59; 149; 1382; 9; https://twitter.com/ProfBunazar/status/125
 [2020-04-29 01:01:01+00:00; ProfBunazar; @Ricardo74984364 Pode começar não debochando, que acha?; 3; 0; 22; 0; https://twitter.com/ProfBunazar/status/1255301027273867266; None; None]
 [2020-04-29 01:00:39+00:00; ProfBunazar; @du_mirandaa Estão? O presidente tem colaborado para evitar aglomeração? Onde estão os testes? E mais, você acha certo a forma como ele falou sobre os mortos? O tom de deboche?; 4; 0; 4; 0; https://twitter.com/ProfBunazar/status/1255300934571343872; None; None]
 [2020-04-29 00:55:12+00:00; ProfBunazar; @Retchalian Eu vi o vídeo...; 1; 0; 3; 0; https://twitter.com/ProfBunazar/status/1255299560877981696; None; None]
-[2020-04-29 00:48:24+00:00; ProfBunazar; Bolsonaro sobre as mortes: “Quer que eu faça o que?”
-Algumas dicas: Aumentar os testes; comprar respiradores; estruturar o SUS; desestimular aglomerações. Porém, se o senhor achar que isso não cabe ao Presidente da República, ao menos trate os familiares das vítimas com respeito.; 219; 843; 3554; 58; https://twitter.com/ProfBunazar/status/1255297848544985089; None; None]
+[2020-04-29 00:48:24+00:00; ProfBunazar; Bolsonaro sobre as mortes: “Quer que eu faça o que?” Algumas dicas: Aumentar os testes; comprar respiradores; estruturar o SUS; desestimular aglomerações. Porém, se o senhor achar que isso não cabe ao Presidente da República, ao menos trate os familiares das vítimas com respeito.; 219; 843; 3554; 58; https://twitter.com/ProfBunazar/status/1255297848544985089; None; None]
 [2020-04-29 00:20:57+00:00; ProfBunazar; @dapdias Não espero prudência tampouco sofisticação de terraplanista, que acha que a pandemia é uma gripezinha, que fumar faz bem etc. abraços; 0; 0; 4; 0; https://twitter.com/ProfBunazar/status/1255290940744400897; None; None]
 [2020-04-29 00:04:14+00:00; ProfBunazar; @FreitasLimas Para quem prudência é uma ofensa, o diálogo certamente não será um caminho. Recomendo que para de me seguir.; 2; 0; 12; 0; https://twitter.com/ProfBunazar/status/1255286735002652678; None; None]
 [2020-04-28 23:57:20+00:00; ProfBunazar; Espero que cesse a politização da pandemia. Ela existe e é gravíssima. Qualquer política pública deve levar isso em consideração. Não se pode simplesmente liberar indiscriminadamente o funcionamento dos estabelecimentos. Temos de achar um meio-termo. Ajamos com prudência.; 23; 54; 568; 3; https://twitter.com/ProfBunazar/status/1255285000498565121; None; None]
@@ -2943,8 +2881,7 @@ Algumas dicas: Aumentar os testes; comprar respiradores; estruturar o SUS; deses
 [2020-04-20 20:34:09+00:00; ProfBunazar; @AiltonBenedito Rs. Para eu poder xingar.....; 1; 0; 27; 0; https://twitter.com/ProfBunazar/status/1252334764561965058; None; None]
 [2020-04-20 20:31:55+00:00; ProfBunazar; @AiltonBenedito Olha, seria bom se revogassem o tipo da injúria.; 1; 2; 30; 0; https://twitter.com/ProfBunazar/status/1252334200776245249; None; None]
 [2020-04-20 20:22:03+00:00; ProfBunazar; @bugre1978 Deus o perdoe; 0; 0; 0; 0; https://twitter.com/ProfBunazar/status/1252331718184493056; None; None]
-[2020-04-20 20:06:20+00:00; ProfBunazar; Primeiro: foi o XVI;
-Segundo: o senhor conhece a história dos irmãos Graco? https://t.co/rwwUM1B6Vp; 11; 8; 80; 0; https://twitter.com/ProfBunazar/status/1252327765061312514; None; https://twitter.com/GuilhermeBoulos/status/1252250654057402372]
+[2020-04-20 20:06:20+00:00; ProfBunazar; Primeiro: foi o XVI; Segundo: o senhor conhece a história dos irmãos Graco? https://t.co/rwwUM1B6Vp; 11; 8; 80; 0; https://twitter.com/ProfBunazar/status/1252327765061312514; None; https://twitter.com/GuilhermeBoulos/status/1252250654057402372]
 [2020-04-20 18:46:58+00:00; ProfBunazar; Pessoal, conto com a ajuda de todos que puderem. Esse lindo garotinho precisa da gente. https://t.co/Tugq1dv5ll; 1; 43; 143; 0; https://twitter.com/ProfBunazar/status/1252307790456066051; None; None]
 [2020-04-20 18:43:03+00:00; ProfBunazar; @RicardoAcapulco Ele discorda. Para ele, quem apoia isso é contra o Brasil. Concordo com ele; 3; 0; 7; 0; https://twitter.com/ProfBunazar/status/1252306805004345344; None; None]
 [2020-04-20 16:49:28+00:00; ProfBunazar; Desculpe. Ontem não me pareceu claro. Hoje, sim, o Presidente acertadamente deixou claro que quem pede intervenção militar, AI-5, fechamento do Congresso e do STF é um bando de infiltrados (palavras dele) que só querem incendiar a república. Bom que o PR esteja CONTRA essa gente. https://t.co/xPLxnzqdDw; 21; 23; 221; 3; https://twitter.com/ProfBunazar/status/1252278219857944576; None; https://twitter.com/VVianna15/status/1252272553172893696]
@@ -2988,10 +2925,7 @@ Segundo: o senhor conhece a história dos irmãos Graco? https://t.co/rwwUM1B6Vp
 [2020-04-19 20:56:51+00:00; ProfBunazar; @Ronaldrootz Você que está vindo aqui na minha tl, amigo.; 1; 0; 0; 0; https://twitter.com/ProfBunazar/status/1251978088759676934; None; None]
 [2020-04-19 20:50:26+00:00; ProfBunazar; @ProfessorSimao @Luzia11 Sim. Têm muitas chances. É um movimento com muito apelo popular. O povo quer muito sustentar uma família real. É o que o Brasil precisa; 4; 0; 6; 1; https://twitter.com/ProfBunazar/status/1251976473394778113; None; None]
 [2020-04-19 20:42:38+00:00; ProfBunazar; @titiogil @DaniloGentili Sim. Nada a ver. Uma mera coincidência; 2; 0; 3; 0; https://twitter.com/ProfBunazar/status/1251974509214814208; None; None]
-[2020-04-19 20:34:56+00:00; ProfBunazar; 1º. Há uma manifestação pedindo intervenção militar;
-2º. O Presidente explicitamente empresta apoio à manifestação;
-3º. Um Ministro de Estado, General aposentado, faz esse post.
-A conclusão é óbvia... https://t.co/L0VL2AXM97; 131; 40; 345; 11; https://twitter.com/ProfBunazar/status/1251972570980679680; None; https://twitter.com/gen_heleno/status/1251970692964405248]
+[2020-04-19 20:34:56+00:00; ProfBunazar; 1º. Há uma manifestação pedindo intervenção militar; 2º. O Presidente explicitamente empresta apoio à manifestação; 3º. Um Ministro de Estado, General aposentado, faz esse post. A conclusão é óbvia... https://t.co/L0VL2AXM97; 131; 40; 345; 11; https://twitter.com/ProfBunazar/status/1251972570980679680; None; https://twitter.com/gen_heleno/status/1251970692964405248]
 [2020-04-19 20:28:37+00:00; ProfBunazar; @madeiradez Eu sei; 0; 0; 3; 0; https://twitter.com/ProfBunazar/status/1251970983084392450; None; None]
 [2020-04-19 20:23:11+00:00; ProfBunazar; @GianSca1970 Se o senhor ler, verá que eu defendi o direito dele de dizer; 1; 0; 1; 0; https://twitter.com/ProfBunazar/status/1251969616802459648; None; None]
 [2020-04-19 20:22:03+00:00; ProfBunazar; @AlexandreGreski Fala isso para quem escreveu a asneira, não para mim; 1; 0; 0; 0; https://twitter.com/ProfBunazar/status/1251969328934801409; None; None]
@@ -3040,8 +2974,7 @@ A conclusão é óbvia... https://t.co/L0VL2AXM97; 131; 40; 345; 11; https://twi
 [2020-04-17 01:01:01+00:00; ProfBunazar; @proffabiorapp Isso aí; 0; 0; 0; 0; https://twitter.com/ProfBunazar/status/1250952369854197760; None; None]
 [2020-04-17 00:31:53+00:00; ProfBunazar; @PedrinhoNeles Gente como você tem régua curta e moralmente torta. Abraços; 0; 0; 1; 0; https://twitter.com/ProfBunazar/status/1250945037531316224; None; None]
 [2020-04-17 00:28:35+00:00; ProfBunazar; @Miltonneves Grande abraço e fique com Deus; 1; 1; 2; 0; https://twitter.com/ProfBunazar/status/1250944208720060417; None; None]
-[2020-04-17 00:25:28+00:00; ProfBunazar; @Miltonneves Para nada. Para meia dúzia de bobos acharem que têm alguma influência.
-Sou seu fã Miltão; 13; 4; 124; 0; https://twitter.com/ProfBunazar/status/1250943425135992832; None; None]
+[2020-04-17 00:25:28+00:00; ProfBunazar; @Miltonneves Para nada. Para meia dúzia de bobos acharem que têm alguma influência. Sou seu fã Miltão; 13; 4; 124; 0; https://twitter.com/ProfBunazar/status/1250943425135992832; None; None]
 [2020-04-16 23:14:04+00:00; ProfBunazar; @ProfessorSimao Esse médico é muito competente; 1; 0; 10; 0; https://twitter.com/ProfBunazar/status/1250925455181578241; None; None]
 [2020-04-16 22:41:02+00:00; ProfBunazar; @DShwafaty Quer apostar?; 1; 0; 0; 0; https://twitter.com/ProfBunazar/status/1250917141844541448; None; None]
 [2020-04-16 22:19:26+00:00; ProfBunazar; @aguedescartoon Hahahahhhhhhaha; 0; 0; 0; 0; https://twitter.com/ProfBunazar/status/1250911709323239425; None; None]
@@ -3135,9 +3068,7 @@ Sou seu fã Miltão; 13; 4; 124; 0; https://twitter.com/ProfBunazar/status/12509
 [2020-04-15 01:27:30+00:00; ProfBunazar; @ProfMedina Não vi, mas não me parece muito aceitável..; 0; 0; 1; 0; https://twitter.com/ProfBunazar/status/1250234260302299137; None; None]
 [2020-04-14 23:07:52+00:00; ProfBunazar; @juizrafael Exatamente, Rafael. Perfeito; 0; 0; 3; 0; https://twitter.com/ProfBunazar/status/1250199121870360576; None; None]
 [2020-04-14 22:56:45+00:00; ProfBunazar; @FigaroAndre Mais um. Você está indo bem hoje; 0; 0; 0; 0; https://twitter.com/ProfBunazar/status/1250196322071830528; None; None]
-[2020-04-14 22:53:46+00:00; ProfBunazar; Vamos para mais um tuíte desagregador:
-1º. É burrice permitir e estimular que haja aglomeração de pessoas em ambientes fechados;
-2º. Quem define o que é ou não serviço essencial é o Executivo ou, por lei, o Legislativo. Em nenhuma hipótese, o Judiciário. https://t.co/szXWMzwEl4; 21; 31; 350; 1; https://twitter.com/ProfBunazar/status/1250195573011091456; None; https://twitter.com/JovemPanNews/status/1250193378165260289]
+[2020-04-14 22:53:46+00:00; ProfBunazar; Vamos para mais um tuíte desagregador: 1º. É burrice permitir e estimular que haja aglomeração de pessoas em ambientes fechados; 2º. Quem define o que é ou não serviço essencial é o Executivo ou, por lei, o Legislativo. Em nenhuma hipótese, o Judiciário. https://t.co/szXWMzwEl4; 21; 31; 350; 1; https://twitter.com/ProfBunazar/status/1250195573011091456; None; https://twitter.com/JovemPanNews/status/1250193378165260289]
 [2020-04-14 22:40:31+00:00; ProfBunazar; @FigaroAndre Palavrão só no privado hahahah; 0; 0; 0; 0; https://twitter.com/ProfBunazar/status/1250192235691257856; None; None]
 [2020-04-14 22:27:17+00:00; ProfBunazar; @FigaroAndre Olha, não andamos concordando muito por aqui, mas neste caso, ressalvados o palavrão e a praga, concordo integralmente. Que ideia de jumento; 0; 0; 11; 0; https://twitter.com/ProfBunazar/status/1250188909130190853; None; None]
 [2020-04-14 14:01:31+00:00; ProfBunazar; @BaldacciRoberto Hahahahaha; 0; 0; 3; 0; https://twitter.com/ProfBunazar/status/1250061628059631626; None; None]
@@ -3164,9 +3095,7 @@ Sou seu fã Miltão; 13; 4; 124; 0; https://twitter.com/ProfBunazar/status/12509
 [2020-04-12 20:15:00+00:00; ProfBunazar; “Todas as evidências mostram o contrário”. Está bem. Vai aí algo que fará sentido para você: a OMS foi sequestrada por alienígenas que, além de saber que a Terra é plana, querem acabar com a população impondo a quarentena. Faz sentido né? https://t.co/5WWc0JjgQc; 7; 5; 63; 0; https://twitter.com/ProfBunazar/status/1249430842843312133; None; https://twitter.com/pietrobianchin8/status/1249429297976217600]
 [2020-04-12 20:02:04+00:00; ProfBunazar; @ShMCorreia Não ataquei. Perguntei: quantas mortes são aceitáveis para você?; 3; 0; 5; 0; https://twitter.com/ProfBunazar/status/1249427586519834626; None; None]
 [2020-04-12 20:00:14+00:00; ProfBunazar; @opropriopontes @jeffs_araujo35 Não tenha preguiça. Seus escritos devem ser lidos!!!; 0; 0; 6; 0; https://twitter.com/ProfBunazar/status/1249427123602894850; None; None]
-[2020-04-12 19:47:28+00:00; ProfBunazar; @FigaroAndre @watsondosertao Falou. Não hoje, mas falou. 
-1. Portaria de Governador não obriga ninguém;
-2. Se dá para rastrear, sou contra a utilização.; 0; 1; 3; 0; https://twitter.com/ProfBunazar/status/1249423910963118080; None; None]
+[2020-04-12 19:47:28+00:00; ProfBunazar; @FigaroAndre @watsondosertao Falou. Não hoje, mas falou.  1. Portaria de Governador não obriga ninguém; 2. Se dá para rastrear, sou contra a utilização.; 0; 1; 3; 0; https://twitter.com/ProfBunazar/status/1249423910963118080; None; None]
 [2020-04-12 19:43:48+00:00; ProfBunazar; @watsondosertao @FigaroAndre @BrandaoGabriel @DireitoFazendo Espero que haja algum contraponto. Do contrário será só falatório autoritário ....; 0; 0; 1; 0; https://twitter.com/ProfBunazar/status/1249422988614778882; None; None]
 [2020-04-12 19:40:32+00:00; ProfBunazar; @FigaroAndre @watsondosertao Seu “argumento” é tão absurdo que ele não chega a estar errado. Para você, sempre há uma boa desculpa para violar o Direito. “Ah, é o Lula”; “Ah, estamos em guerra”; “Ah, são as mesmas armas que eles usam”; “Ah, é a pandemia”. Não dá para raciocinar juridicamente assim. Desculpe; 0; 0; 5; 0; https://twitter.com/ProfBunazar/status/1249422168276045824; None; None]
 [2020-04-12 19:37:21+00:00; ProfBunazar; @FigaroAndre @watsondosertao Fígaro, entendo você não querer se indispor com o chefe. Abraços; 0; 0; 3; 0; https://twitter.com/ProfBunazar/status/1249421364253122560; None; None]
@@ -3212,17 +3141,7 @@ Sou seu fã Miltão; 13; 4; 124; 0; https://twitter.com/ProfBunazar/status/12509
 [2020-03-01 19:02:22+00:00; ProfBunazar; @vicentedomingos @AiltonBenedito Está no CPM; 1; 0; 1; 0; https://twitter.com/ProfBunazar/status/1234192271127515137; None; None]
 [2020-03-01 18:54:12+00:00; ProfBunazar; @IezziEmerson @DaniloGentili @SeibtNaomi Não. Ela é tão boba quanto. Só repete bobagens mais simpáticas; 1; 0; 0; 0; https://twitter.com/ProfBunazar/status/1234190217076183041; None; None]
 [2020-03-01 18:21:29+00:00; ProfBunazar; @profapatricia É verdade. Nunca; 1; 0; 3; 1; https://twitter.com/ProfBunazar/status/1234181985473572864; None; None]
-[2020-03-01 18:15:02+00:00; ProfBunazar; Busquemos a bondade sempre!
-“Os bons vi sempre passar
-No mundo graves tormentos;
-E para mais me espantar,
-Os maus vi sempre nadar
-Em mar de contentamentos.
-Cuidando alcançar assim
-O bem tão mal ordenado,
-Fui mau, mas fui castigado:
-Assim que só para mim
-Anda o mundo concertado.”; 4; 4; 58; 0; https://twitter.com/ProfBunazar/status/1234180361879511041; None; None]
+[2020-03-01 18:15:02+00:00; ProfBunazar; Busquemos a bondade sempre! “Os bons vi sempre passar No mundo graves tormentos; E para mais me espantar, Os maus vi sempre nadar Em mar de contentamentos. Cuidando alcançar assim O bem tão mal ordenado, Fui mau, mas fui castigado: Assim que só para mim Anda o mundo concertado.”; 4; 4; 58; 0; https://twitter.com/ProfBunazar/status/1234180361879511041; None; None]
 [2020-03-01 18:09:48+00:00; ProfBunazar; @afreitascamara Grande Alexandre!!!; 0; 0; 2; 0; https://twitter.com/ProfBunazar/status/1234179043697790976; None; None]
 [2020-03-01 17:58:46+00:00; ProfBunazar; A Greta e a anti/Greta são duas crianças bobinhas que acham que têm a solução para os problemas do mundo. São duas fantoches de ONGs, cuja utilidade real é criar manchete para imprensa.; 22; 96; 1047; 3; https://twitter.com/ProfBunazar/status/1234176266225451008; None; None]
 [2020-03-01 15:37:36+00:00; ProfBunazar; @jusbarretto @AiltonBenedito Aos dois; 0; 0; 0; 0; https://twitter.com/ProfBunazar/status/1234140741145890820; None; None]
@@ -3231,8 +3150,7 @@ Anda o mundo concertado.”; 4; 4; 58; 0; https://twitter.com/ProfBunazar/status
 [2020-03-01 01:29:48+00:00; ProfBunazar; @DutraOta @LuisLeitethe @RedWingssssss @armandopedra @AiltonBenedito Está no CPM que é crime militar.; 0; 0; 0; 0; https://twitter.com/ProfBunazar/status/1233927384430260227; None; None]
 [2020-03-01 00:57:51+00:00; ProfBunazar; @LuisLeitethe @RedWingssssss @armandopedra @AiltonBenedito Quer ver? Um, dois e já; 1; 0; 0; 0; https://twitter.com/ProfBunazar/status/1233919344238788609; None; None]
 [2020-03-01 00:57:34+00:00; ProfBunazar; @LuisLeitethe @RedWingssssss @armandopedra @AiltonBenedito Você também; 0; 0; 0; 0; https://twitter.com/ProfBunazar/status/1233919272168173575; None; None]
-[2020-02-29 20:25:28+00:00; ProfBunazar; @mantunes75 @MoreenoJose @AiltonBenedito @SF_Moro Se vier na minha TL ofender alguém, será bloqueado. Eu discordo do Ministro Moro neste ponto, mas não aceito ofensas,
-Ok?; 2; 0; 1; 0; https://twitter.com/ProfBunazar/status/1233850797894430721; None; None]
+[2020-02-29 20:25:28+00:00; ProfBunazar; @mantunes75 @MoreenoJose @AiltonBenedito @SF_Moro Se vier na minha TL ofender alguém, será bloqueado. Eu discordo do Ministro Moro neste ponto, mas não aceito ofensas, Ok?; 2; 0; 1; 0; https://twitter.com/ProfBunazar/status/1233850797894430721; None; None]
 [2020-02-29 20:24:10+00:00; ProfBunazar; @armandopedra @AiltonBenedito 👍; 0; 0; 1; 0; https://twitter.com/ProfBunazar/status/1233850471443574784; None; None]
 [2020-02-29 20:22:48+00:00; ProfBunazar; @armandopedra @AiltonBenedito Não sabe ter uma conversa civilizada? Que coisa.; 1; 0; 1; 0; https://twitter.com/ProfBunazar/status/1233850126566752256; None; None]
 [2020-02-29 20:21:12+00:00; ProfBunazar; @Valusa @AiltonBenedito Não. Porque está na lei (Código Penal Militar) que é crime. Só isso; 1; 0; 1; 0; https://twitter.com/ProfBunazar/status/1233849723183910912; None; None]
@@ -3408,8 +3326,7 @@ Ok?; 2; 0; 1; 0; https://twitter.com/ProfBunazar/status/1233850797894430721; Non
 [2020-02-16 19:15:19+00:00; ProfBunazar; @GvilhermeAlves Bem isso; 0; 0; 1; 0; https://twitter.com/ProfBunazar/status/1229122101992402946; None; None]
 [2020-02-16 17:15:04+00:00; ProfBunazar; @RogerioVilela Só uma correção: é sempre um babaca fantasiado de bom moço; 1; 0; 17; 0; https://twitter.com/ProfBunazar/status/1229091840969904128; None; None]
 [2020-02-16 17:11:56+00:00; ProfBunazar; @MCPSILVEIRA Ok. Abs; 1; 0; 0; 0; https://twitter.com/ProfBunazar/status/1229091051689988097; None; None]
-[2020-02-16 17:08:50+00:00; ProfBunazar; @MCPSILVEIRA “Tu é o messias, o filho do Deus vivo?” 
-- “Tu o disseste”.; 1; 0; 1; 0; https://twitter.com/ProfBunazar/status/1229090271926853633; None; None]
+[2020-02-16 17:08:50+00:00; ProfBunazar; @MCPSILVEIRA “Tu é o messias, o filho do Deus vivo?”  - “Tu o disseste”.; 1; 0; 1; 0; https://twitter.com/ProfBunazar/status/1229090271926853633; None; None]
 [2020-02-16 17:07:37+00:00; ProfBunazar; @odeiotodocorrup @FigaroAndre Eu nunca defendi nada diferente disso. Se você puxar minha tl, verá que, a despeito de haver detestado o vídeo, eu defendi que não pode haver censura. Agora dizer que cristão não é perseguido é piada; 1; 0; 8; 0; https://twitter.com/ProfBunazar/status/1229089962303381504; None; None]
 [2020-02-16 17:04:32+00:00; ProfBunazar; @MCPSILVEIRA É dogma de fé. Não é possível debater. Só isso; 2; 0; 5; 0; https://twitter.com/ProfBunazar/status/1229089187233751041; None; None]
 [2020-02-16 17:04:09+00:00; ProfBunazar; @FigaroAndre Hahahahah. O cristianismo não sofre perseguição??? Hahahahaah. Valeu, André. Passa depois; 2; 0; 30; 0; https://twitter.com/ProfBunazar/status/1229089091926528004; None; None]
@@ -3653,8 +3570,7 @@ Ok?; 2; 0; 1; 0; https://twitter.com/ProfBunazar/status/1233850797894430721; Non
 [2020-01-31 21:54:47+00:00; ProfBunazar; Uma ideia seria pegar as pessoas e levar uma à missa; outra ao estádio de futebol; umas duas ou três na linha vermelha do metrô às 18 horas. Onde já se viu exigir quarentena de quem pode estar com um vírus mortal né? https://t.co/C7V5S67fqA; 3; 9; 62; 0; https://twitter.com/ProfBunazar/status/1223364024454258688; None; https://twitter.com/folha/status/1223363084137443328]
 [2020-01-31 21:51:32+00:00; ProfBunazar; Algo errado nisso? https://t.co/C7V5S67fqA; 10; 1; 76; 1; https://twitter.com/ProfBunazar/status/1223363207445782530; None; https://twitter.com/folha/status/1223363084137443328]
 [2020-01-31 21:48:27+00:00; ProfBunazar; @AndreataMarcel Sim. Minha questão é: criminoso beneficiário X vítima não beneficiária; 0; 0; 0; 0; https://twitter.com/ProfBunazar/status/1223362432678203399; None; None]
-[2020-01-31 21:43:22+00:00; ProfBunazar; @AndreataMarcel Mesmo se não for beneficiário do INSS? Tomara que sim.
-Obrigado; 0; 0; 0; 0; https://twitter.com/ProfBunazar/status/1223361151725178883; None; None]
+[2020-01-31 21:43:22+00:00; ProfBunazar; @AndreataMarcel Mesmo se não for beneficiário do INSS? Tomara que sim. Obrigado; 0; 0; 0; 0; https://twitter.com/ProfBunazar/status/1223361151725178883; None; None]
 [2020-01-31 21:36:20+00:00; ProfBunazar; @AndreataMarcel O problema, Marcel, não é proteger a família do criminoso, mas não haver uma política pública efetiva de assistência à família da vítima. O ideal é que não faltasse nada a ninguém, mas diante da escassez, penso que seria melhor que a família da vítima recebesse. Abraços; 0; 0; 0; 0; https://twitter.com/ProfBunazar/status/1223359383129731074; None; None]
 [2020-01-31 20:36:07+00:00; ProfBunazar; @jeffs_araujo35 Sim. Não é algo comum. Mas é algo que me causa mal estar.; 1; 0; 30; 0; https://twitter.com/ProfBunazar/status/1223344228278906885; None; None]
 [2020-01-31 20:22:54+00:00; ProfBunazar; @rullyannn @Bitencourt2000 @NFanchin E a da vítima?; 0; 0; 15; 0; https://twitter.com/ProfBunazar/status/1223340903110266881; None; None]
@@ -3664,10 +3580,7 @@ Obrigado; 0; 0; 0; 0; https://twitter.com/ProfBunazar/status/1223361151725178883
 [2020-01-31 19:52:55+00:00; ProfBunazar; @marlizmorais @profaflavia Eu sei que não é um benefício para todos. Mas me deu enjoo de estômago ouvir a pergunta do rapaz. É nojento imaginar que um latrocida possa vir a receber um auxílio enquanto a família da vítima fica à míngua; 1; 0; 3; 0; https://twitter.com/ProfBunazar/status/1223333358148648960; None; None]
 [2020-01-31 19:48:13+00:00; ProfBunazar; @redlikeembers Nem isso se pode fazer tranquilamente ...; 0; 0; 1; 0; https://twitter.com/ProfBunazar/status/1223332175153680385; None; None]
 [2020-01-31 19:38:25+00:00; ProfBunazar; Só uma nota: não estou dizendo que é ilegal. Existe lei que concede o benefício em determinadas condições. O que estou afirmando é que, a mim, parece RADICALMENTE IMORAL que exista isso. No mínimo, o benefício deveria ser dirigido à vítima ou seus familiares. https://t.co/vH4AmNxWLu; 11; 12; 138; 1; https://twitter.com/ProfBunazar/status/1223329708282040321; None; https://twitter.com/ProfBunazar/status/1223325141079339009]
-[2020-01-31 19:20:16+00:00; ProfBunazar; Taxista: “doutor, sabe uma coisa que não entendo. Meu cunhado era taxista. Foi assaltado e morto. Deixou mulher e uma filha. O bandido foi preso. É verdade que a família do brandido recebe ajuda do governo?
-Eu: sim.
-Ele: Nossa Senhora.
-Eu:......; 32; 51; 486; 8; https://twitter.com/ProfBunazar/status/1223325141079339009; None; None]
+[2020-01-31 19:20:16+00:00; ProfBunazar; Taxista: “doutor, sabe uma coisa que não entendo. Meu cunhado era taxista. Foi assaltado e morto. Deixou mulher e uma filha. O bandido foi preso. É verdade que a família do brandido recebe ajuda do governo? Eu: sim. Ele: Nossa Senhora. Eu:......; 32; 51; 486; 8; https://twitter.com/ProfBunazar/status/1223325141079339009; None; None]
 [2020-01-31 16:32:16+00:00; ProfBunazar; @GordoGeek @ProfessorSimao Se você vir a minha letra...; 0; 0; 1; 0; https://twitter.com/ProfBunazar/status/1223282862373449729; None; None]
 [2020-01-31 13:13:22+00:00; ProfBunazar; @ABissoto @jeffs_araujo35 Bissoto, vamos aprender porque existem seres geniais como você dispostos a ensinar pessoas medíocres como nós. Obrigado por sua generosidade na difusão da iluminação; 1; 0; 1; 0; https://twitter.com/ProfBunazar/status/1223232807096455168; None; None]
 [2020-01-31 02:40:14+00:00; ProfBunazar; @jeffs_araujo35 @FigaroAndre https://t.co/aNwKrkPmeM; 0; 0; 8; 0; https://twitter.com/ProfBunazar/status/1223073472991186946; None; None]
@@ -3722,9 +3635,7 @@ Eu:......; 32; 51; 486; 8; https://twitter.com/ProfBunazar/status/12233251410793
 [2020-01-30 03:09:45+00:00; ProfBunazar; @annaleibel2010 @JoselitoMuller3 Não é isso não. O cargo para o qual ele foi nomeado é de livre nomeação e exoneração; 2; 0; 14; 0; https://twitter.com/ProfBunazar/status/1222718512638152705; None; None]
 [2020-01-30 02:22:06+00:00; ProfBunazar; @evsonmatias Deus queira. Sério. Serei o primeiro a me retratar. Eu torço muito para dar certo; 3; 0; 2; 0; https://twitter.com/ProfBunazar/status/1222706524675551232; None; None]
 [2020-01-30 02:15:38+00:00; ProfBunazar; @evsonmatias Não sei porque recontratou; não interessa o motivo. Exonerou está exonerado.; 1; 0; 13; 0; https://twitter.com/ProfBunazar/status/1222704895184326656; None; None]
-[2020-01-30 02:10:25+00:00; ProfBunazar; 11:59: exonerei porque o comportamento é imoral;
-00:00: recontratei porque me deu na telha.
-Não dá. Sério. Não dá.; 36; 62; 608; 5; https://twitter.com/ProfBunazar/status/1222703581293355008; None; None]
+[2020-01-30 02:10:25+00:00; ProfBunazar; 11:59: exonerei porque o comportamento é imoral; 00:00: recontratei porque me deu na telha. Não dá. Sério. Não dá.; 36; 62; 608; 5; https://twitter.com/ProfBunazar/status/1222703581293355008; None; None]
 [2020-01-29 20:53:18+00:00; ProfBunazar; Não quero acreditar que seja verdade. Se for, a denúncia será rejeitada e o MPF lamentavelmente sairá arranhado. https://t.co/YgmLTvsWMQ; 0; 0; 18; 0; https://twitter.com/ProfBunazar/status/1222623776296394752; None; https://twitter.com/gazetadopovo/status/1222575893937147906]
 [2020-01-29 18:39:12+00:00; ProfBunazar; @DiegoBunazar Credo; 0; 0; 0; 0; https://twitter.com/ProfBunazar/status/1222590030071377920; None; None]
 [2020-01-29 17:36:29+00:00; ProfBunazar; É fato que nossas informações são acessadas ou, no mínimo, são acessíveis pelo governo americano. Se a Hawaii vier para o Brasil, a China passará a ter o mesmo acesso. Pragmaticamente, melhor que sejam os americanos, ao menos os republicanos rs.; 3; 0; 35; 0; https://twitter.com/ProfBunazar/status/1222574246804762624; None; None]
@@ -3769,8 +3680,7 @@ Não dá. Sério. Não dá.; 36; 62; 608; 5; https://twitter.com/ProfBunazar/sta
 [2020-01-26 23:26:01+00:00; ProfBunazar; @natalinapi Então me bloqueia. Melhor assim.; 0; 0; 1; 0; https://twitter.com/ProfBunazar/status/1221575048546455556; None; None]
 [2020-01-26 23:19:56+00:00; ProfBunazar; @SoniaVirginia14 Doente demais; 0; 0; 31; 0; https://twitter.com/ProfBunazar/status/1221573514462990340; None; None]
 [2020-01-26 23:11:00+00:00; ProfBunazar; @rafa_2205 Rafael, não temos nada em comum. Divergimos em absolutamente tudo. Essa é uma divergência radical. Acho que você não ganha nada me seguindo aqui; 1; 0; 1; 0; https://twitter.com/ProfBunazar/status/1221571268983640065; None; None]
-[2020-01-26 23:03:03+00:00; ProfBunazar; Se eu escrever que o estuprador estupra porque é doente, alguém concordará? Espero sinceramente que não.
-Agora, estamos prestes a ver gente defendendo que o pedófilo abusa de crianças porque é doente. O argumento é simples: se ele é doente, ele não tem culpa. Nao é aceitável.; 257; 684; 5890; 30; https://twitter.com/ProfBunazar/status/1221569267637813249; None; None]
+[2020-01-26 23:03:03+00:00; ProfBunazar; Se eu escrever que o estuprador estupra porque é doente, alguém concordará? Espero sinceramente que não. Agora, estamos prestes a ver gente defendendo que o pedófilo abusa de crianças porque é doente. O argumento é simples: se ele é doente, ele não tem culpa. Nao é aceitável.; 257; 684; 5890; 30; https://twitter.com/ProfBunazar/status/1221569267637813249; None; None]
 [2020-01-26 22:20:30+00:00; ProfBunazar; @natalinapi Eu não sei que é você. Imagino que tenha uma grande formação; 1; 0; 1; 0; https://twitter.com/ProfBunazar/status/1221558559336431623; None; None]
 [2020-01-26 22:20:08+00:00; ProfBunazar; @rafa_2205 Quem falou de esquerda, amigo??? Nem tudo é política. Você nega que disseminar que é uma doença é um passo para descriminalizar? Isso é óbvio; 0; 0; 2; 0; https://twitter.com/ProfBunazar/status/1221558466822791168; None; None]
 [2020-01-26 21:54:31+00:00; ProfBunazar; @rafa_2205 Não entendi, mas como de hábito já imagino que seja alguma crítica ao que eu postei; 0; 0; 0; 0; https://twitter.com/ProfBunazar/status/1221552019917414407; None; None]
@@ -3904,10 +3814,7 @@ Agora, estamos prestes a ver gente defendendo que o pedófilo abusa de crianças
 [2020-01-16 16:06:06+00:00; ProfBunazar; @arcanjo090 Votou em quem?; 1; 0; 0; 0; https://twitter.com/ProfBunazar/status/1217840459139223552; None; None]
 [2020-01-16 15:21:24+00:00; ProfBunazar; @rafa_2205 😂; 0; 0; 0; 0; https://twitter.com/ProfBunazar/status/1217829210993184768; None; None]
 [2020-01-16 15:18:25+00:00; ProfBunazar; @rafa_2205 Você errou. Essa teria de ser o y. Mas você gosta do X, né? 😂😂Abraços, amigo; 0; 0; 10; 0; https://twitter.com/ProfBunazar/status/1217828457264099329; None; None]
-[2020-01-16 15:12:36+00:00; ProfBunazar; Pessoa X: “A única coisa boa que o Bolsonaro fez foi tirar o PT”.
-Pessoa Y: “você votou no Bolsonaro, então, certo?”
-Pessoa X: “Claro que não. Votei no Haddad, mas muito contrariado”
-Resumo: a pessoa X sempre votou e sempre votará no PT. Gosta mais do Lula do que da própria mãe.; 30; 69; 720; 2; https://twitter.com/ProfBunazar/status/1217826994118897666; None; None]
+[2020-01-16 15:12:36+00:00; ProfBunazar; Pessoa X: “A única coisa boa que o Bolsonaro fez foi tirar o PT”. Pessoa Y: “você votou no Bolsonaro, então, certo?” Pessoa X: “Claro que não. Votei no Haddad, mas muito contrariado” Resumo: a pessoa X sempre votou e sempre votará no PT. Gosta mais do Lula do que da própria mãe.; 30; 69; 720; 2; https://twitter.com/ProfBunazar/status/1217826994118897666; None; None]
 [2020-01-16 10:34:58+00:00; ProfBunazar; @FabioDLorian Eu quero algo simples: uma pesquisa sobre o impacto ambiental levando em conta a cidade de SP.; 0; 0; 0; 0; https://twitter.com/ProfBunazar/status/1217757125654564865; None; None]
 [2020-01-16 01:22:30+00:00; ProfBunazar; @NarsusTeos Amém. A nós.; 0; 0; 0; 0; https://twitter.com/ProfBunazar/status/1217618094987915265; None; None]
 [2020-01-16 01:18:46+00:00; ProfBunazar; “Dai-nos a compreensão de nossos deveres e a força de cumprí-los”. Ótima noite a todos.; 2; 4; 67; 0; https://twitter.com/ProfBunazar/status/1217617152548704256; None; None]
@@ -4075,4 +3982,4 @@ Resumo: a pessoa X sempre votou e sempre votará no PT. Gosta mais do Lula do qu
 [2020-01-03 00:57:22+00:00; ProfBunazar; @GordoGeek 😂; 0; 0; 0; 0; https://twitter.com/ProfBunazar/status/1212900726059479040; None; None]
 [2020-01-03 00:57:13+00:00; ProfBunazar; @dracitto Obrigado, Ale; 0; 0; 0; 0; https://twitter.com/ProfBunazar/status/1212900689304838144; None; None]
 [2020-01-03 00:45:34+00:00; ProfBunazar; Ainda em tempo, feliz ano novo a todos.; 11; 1; 107; 0; https://twitter.com/ProfBunazar/status/1212897755787608064; None; None]
-[2020-01-03 00:44:35+00:00; ProfBunazar; @DaniloGentili @diguinhocoruja @diguinhocoruja, eu não tenho nada a ver com isso!!!; 0; 1; 14; 0; https://twitter.com/ProfBunazar/status/1212897511540703237; None; None]
+[2020-01-03 00:44:35+00:00; ProfBunazar; @DaniloGentili @diguinhocoruja @diguinhocoruja, eu não tenho nada a ver com isso!!!; 0; 1; 14; 0; https://twitter.com/ProfBunazar/status/1212897511540703237; None; None] 
