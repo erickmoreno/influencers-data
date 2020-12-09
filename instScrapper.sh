@@ -107,6 +107,12 @@ FORMAT="[{date}; {username}; {content}; {cleanUrl}; {likes}; {comments}]"
 SINCE="$YEAR-01-01"
 UNTIL="$YEAR-12-31"
 
+single_line_content () {
+    tr "\n" " " < $1.txt > $1-tmp.txt # Remove new lines
+    sed "s/\s\[$YEAR/\n[$YEAR/g" $1-tmp.txt > $1.txt #Insert new lines only for new content
+    rm $1-tmp.txt
+}
+
 OLDIFS=$IFS
 IFS=','
 for i in "${INFLUENCERS[@]}" 
@@ -115,9 +121,15 @@ do
     echo getting $1 instagram posts
     path=data/$1/instagram
     mkdir -p $path
-    outfilename=$path/$2-instagram.txt
-    snscrape -f $FORMAT --since "$YEAR-02-01" instagram-user $2 > $outfilename
+    outfilename=$path/$2-instagram
+    # snscrape -f $FORMAT --since "$YEAR-02-01" instagram-user $2 > $outfilename.txt
+    single_line_content $outfilename
 done 
 IFS=$OLDIFS
+
+
+
+# tr "\n" " " < data/Xico_Sa/instagram/xicosa-instagram.txt > tmp.txt
+# sed 's/\s\[2020/\n[2020/g' tmp.txt > tmp2.txt
 
 # snscrape --jsonl --since "2020-01-01" instagram-user erickmorenoma > erickmorenoma.txt
