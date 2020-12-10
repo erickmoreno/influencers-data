@@ -1,14 +1,15 @@
 #!/bin/bash
 INFLUENCERS=(
-    "Alex_Silva,blogalexsilva"
-    "Alexandre_Garcia,alexandregarcia.br"
-    "Allan_dos_Santos,allansantosbr"
-    "Ana_Paula_Henkel,anapaulavolei"
-    "Arthur_do_Val,arthurmoledoval"
-    "Atila_Iamarino,oatila"
-    "Augusto_Nunes,augustosnunesoficial"
-    "Barbara_Zambaldi_Destefani,teatualizeioficial"
-    "Bernardo_Kuster,bernardopkuster"
+    # "Alex_Silva,blogalexsilva"
+    # "Alexandre_Garcia,alexandregarcia.br"
+    # "Allan_dos_Santos,allansantosbr"
+    # "Ana_Paula_Henkel,anapaulavolei"
+    # "Arthur_do_Val,arthurmoledoval"
+    # "Atila_Iamarino,oatila"
+    # "Augusto_Nunes,augustosnunesoficial"
+    # "Barbara_Zambaldi_Destefani,teatualizeioficial"
+    # "Bernardo_Kuster,bernardopkuster"
+
     "Bia_Kicis,biakicis"
     "Brunno_Melo,brunnomelocbn"
     "Caio_Coppolla,boletimcoppolla"
@@ -99,13 +100,42 @@ INFLUENCERS=(
     "Virginia,mulhertamarinda"
     "Winston_Ling,WinstonLing"
     "Xico_Sa,xicosa"
+
+    # "Abraham_Weintraub,abrahamweintraub"
+    # "Arthur_Weintraub,arthurweint"
+    # "Clarice_Falcao,clarafalcao" 
+    # "Cristiano_Zanin_Martin,cristianozaninmartins"
+    # "Deltan_Dallagnol,deltandallagnol"    
+    # "Douglas_Garcia,douglasgarciaspc"
+    # "Evaristo_Costa,evaristocostaoficial"
+    # "Gabriela_Prioli,gabrielaprioli"
+    # "General_Heleno,genheleno" 
+    # "Glenn_Greenwald,glenn.11.greenwald" 
+    # "Iza,iza"
+    # "Joaquin_Teixeira,joaquimteixeiraoficialc"
+    # "Jose_de_Abreu,josedeabreu" 
+    # "Leo_Jaime,leojaimeoficial" 
+    # "Leo_Lins,leolins" 
+    # "Luis_Lacombe,luis.lacombe"
+    # "Luis_Roberto_Barroso,lrobertobarroso"
+    # "Marcelo_Adnet,marceloadnet0" 
+    # "Marcelo_Bretas,mcbretas"
+    # "Marcelo_D2,marcelod2" 
+    # "Marcelo_Tas,marcelotas"
+    # "Marcos_Mion,marcosmion"
+    # "Olavo_de_Carvalho,opropriolavodecarvalho"
+    # "Oscar_Filho,oscarfilho"
+    # "Paulo_Coelho,paulocoelho"
+    # "Pedro_Bial,pedrobial"
+    # "Rafinha_Bastos,rafinhabastos"
+    # "Silas_Malafaia,silasmalafaia"
 )
 
 YEAR=$1
 SINCE="$YEAR-01-01"
 UNTIL="$YEAR-12-31"
-
-FORMAT="[{date}; {username}; {content}; {cleanUrl}; {likes}; {comments}"
+#      "[{date}; {user.username}; {content}; {likeCount}; {replyCount}; {retweetCount}; {quoteCount}; {url}; {retweetedTweet}; {quotedTweet}"
+FORMAT="[{date}; {username}; {content}; {likes}; {comments}; ; ; {cleanUrl}"
 
 #Converts miltiline content to single line
 format_output_file () {
@@ -131,7 +161,7 @@ output_filename () {
 scrap_instagram () {
     echo getting $INFLUENCER $YEAR insta posts
     mkdir -p $(data_path)
-    snscrape -f $FORMAT --since $SINCE instagram-user $USERNAME > $(outfilename).txt
+    snscrape -f $FORMAT --since "$SINCE" instagram-user $USERNAME > $(output_filename).txt
 }
 
 OLDIFS=$IFS
