@@ -1,23 +1,20 @@
 #!/bin/bash
 INFLUENCERS=(
-    # "Alex_Silva,blogalexsilva"
-    # "Alexandre_Garcia,alexandregarcia.br"
-    # "Allan_dos_Santos,allansantosbr"
-    # "Ana_Paula_Henkel,anapaulavolei"
-    # "Arthur_do_Val,arthurmoledoval"
-    # "Atila_Iamarino,oatila"
-    # "Augusto_Nunes,augustosnunesoficial"
-    # "Barbara_Zambaldi_Destefani,teatualizeioficial"
-    # "Bernardo_Kuster,bernardopkuster"
-
+    "Alex_Silva,blogalexsilva"
+    "Alexandre_Garcia,alexandregarcia.br"
+    "Allan_dos_Santos,allansantosbr"
+    "Ana_Paula_Henkel,anapaulavolei"
+    "Arthur_do_Val,arthurmoledoval"
+    "Atila_Iamarino,oatila"
+    "Augusto_Nunes,augustosnunesoficial"
+    "Barbara_Zambaldi_Destefani,teatualizeioficial"
+    "Bernardo_Kuster,bernardopkuster"
     "Bia_Kicis,biakicis"
-    "Brunno_Melo,brunnomelocbn"
     "Caio_Coppolla,boletimcoppolla"
     "Camila_Abdo,caabdo"
     "Carla_Zambelli,carla.zambelli"
     "Carlos_Bolsonaro,carlosbolsonaro"
     "Carol_Pires,pirescarol"
-    "Claudio_Dantas,claudiodantassequeira"
     "Cristiana_Lobo,cristianalobo"
     "Cynara_Menezes,socialistamorena"
     "Damares_Alves,damaresalvesoficial1"
@@ -100,35 +97,34 @@ INFLUENCERS=(
     "Virginia,mulhertamarinda"
     "Winston_Ling,WinstonLing"
     "Xico_Sa,xicosa"
-
-    # "Abraham_Weintraub,abrahamweintraub"
-    # "Arthur_Weintraub,arthurweint"
-    # "Clarice_Falcao,clarafalcao" 
-    # "Cristiano_Zanin_Martin,cristianozaninmartins"
-    # "Deltan_Dallagnol,deltandallagnol"    
-    # "Douglas_Garcia,douglasgarciaspc"
-    # "Evaristo_Costa,evaristocostaoficial"
-    # "Gabriela_Prioli,gabrielaprioli"
-    # "General_Heleno,genheleno" 
-    # "Glenn_Greenwald,glenn.11.greenwald" 
-    # "Iza,iza"
-    # "Joaquin_Teixeira,joaquimteixeiraoficialc"
-    # "Jose_de_Abreu,josedeabreu" 
-    # "Leo_Jaime,leojaimeoficial" 
-    # "Leo_Lins,leolins" 
-    # "Luis_Lacombe,luis.lacombe"
-    # "Luis_Roberto_Barroso,lrobertobarroso"
-    # "Marcelo_Adnet,marceloadnet0" 
-    # "Marcelo_Bretas,mcbretas"
-    # "Marcelo_D2,marcelod2" 
-    # "Marcelo_Tas,marcelotas"
-    # "Marcos_Mion,marcosmion"
-    # "Olavo_de_Carvalho,opropriolavodecarvalho"
-    # "Oscar_Filho,oscarfilho"
-    # "Paulo_Coelho,paulocoelho"
-    # "Pedro_Bial,pedrobial"
-    # "Rafinha_Bastos,rafinhabastos"
-    # "Silas_Malafaia,silasmalafaia"
+    "Abraham_Weintraub,abrahamweintraub"
+    "Arthur_Weintraub,arthurweint"
+    "Clarice_Falcao,clarafalcao" 
+    "Cristiano_Zanin_Martin,cristianozaninmartins"
+    "Deltan_Dallagnol,deltandallagnol"    
+    "Douglas_Garcia,douglasgarciaspc"
+    "Evaristo_Costa,evaristocostaoficial"
+    "Gabriela_Prioli,gabrielaprioli"
+    "General_Heleno,genheleno" 
+    "Glenn_Greenwald,glenn.11.greenwald" 
+    "Iza,iza"
+    "Joaquin_Teixeira,joaquimteixeiraoficialc"
+    "Jose_de_Abreu,josedeabreu" 
+    "Leo_Jaime,leojaimeoficial" 
+    "Leo_Lins,leolins" 
+    "Luis_Lacombe,luis.lacombe"
+    "Luis_Roberto_Barroso,lrobertobarroso"
+    "Marcelo_Adnet,marceloadnet0" 
+    "Marcelo_Bretas,mcbretas"
+    "Marcelo_D2,marcelod2" 
+    "Marcelo_Tas,marcelotas"
+    "Marcos_Mion,marcosmion"
+    "Olavo_de_Carvalho,opropriolavodecarvalho"
+    "Oscar_Filho,oscarfilho"
+    "Paulo_Coelho,paulocoelho"
+    "Pedro_Bial,pedrobial"
+    "Rafinha_Bastos,rafinhabastos"
+    "Silas_Malafaia,silasmalafaia"
 )
 
 YEAR=$1
@@ -160,8 +156,8 @@ output_filename () {
 
 scrap_instagram () {
     echo getting $INFLUENCER $YEAR insta posts
-    mkdir -p $(data_path)
-    snscrape -f $FORMAT --since "$SINCE" instagram-user $USERNAME > $(output_filename).txt
+    # mkdir -p $(data_path)
+    snscrape --jsonl --with-entity --max-results 0 instagram-user $USERNAME >> profilesInsta.txt
 }
 
 OLDIFS=$IFS
@@ -172,7 +168,7 @@ do
     INFLUENCER=$1
     USERNAME=$2
     scrap_instagram
-    format_output_file
+    # format_output_file
 done 
 IFS=$OLDIFS
 
@@ -182,3 +178,6 @@ IFS=$OLDIFS
 # sed 's/\s\[2020/\n[2020/g' tmp.txt > tmp2.txt
 
 # snscrape --jsonl --since "2020-01-01" instagram-user erickmorenoma > erickmorenoma.txt
+# snscrape --jsonl --with-entity --max-results 1 instagram-user erickmorenoma > followInsta.txt 
+
+# snscrape --jsonl --with-entity --max-results 0 instagram-user erickmorenoma > followInsta.txt
