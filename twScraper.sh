@@ -1,16 +1,6 @@
 #!/bin/bash
 INFLUENCERS=(
-    "Lopez_Obrador,lopezobrador_"
-    "Hugo_Lopez_Gatell,HLGatell"
-    "Alejandro_Macias,doctormacias"
-    "Ricardo_Anaya_Cortes,RicardoAnayaC"
-    "Samuel_Garcia,Samuel_garcias"
-    "Lumara_la_Biologa,lumaralabiologa"
-    "Javier_Santaolalla,JaSantaolalla"
-    "Laura_Zapata,laurazapatam"
-    "Leon_Larregui,LeonBenLarregui"
-    "Carlos_Loret_de_Mola,CarlosLoret"
-    "Chumel_Torres,Chumeltorres"
+    "Jair_Bolsonaro,jairbolsonaro"
 )
 YEAR=$1
 SINCE="$YEAR-01-01"
